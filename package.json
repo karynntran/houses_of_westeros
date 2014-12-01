@@ -1,0 +1,11 @@
+{
+  "name": "HousesOfWesteros",
+  "description": "A guide for fledgling singers and fools",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.x",
+    "pg": "^4.0.0",
+    "sequelize": "^2.0.0-rc2",
+    "sequelize-cli": "^0.3.3"
+  }
+}

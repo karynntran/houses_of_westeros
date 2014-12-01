@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "",
+    "password": null,
+    "database": "houses_of_westeros_development",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  },
+  "test": {
+    "username": "",
+    "password": null,
+    "database": "houses_of_westeros_test",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  },
+  "production": {
+    "username": "",
+    "password": null,
+    "database": "houses_of_westeros_production",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  }
+}

@@ -1,0 +1,3367 @@
+[
+  {
+    "name": "House Algood",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/88/Algood.png/250px-Algood.png",
+    "region": "Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Azure, a laurel wreath within a bordure"
+  },
+  {
+    "name": "House Allyrion",
+    "image": "http://awoiaf.westeros.org//images/thumb/1/19/AllyrionCoA.png/250px-AllyrionCoA.png",
+    "words": "No Foe May Pass",
+    "seat": "Godsgrace",
+    "lord": "Lady Delonne Allyrion",
+    "region": "Dorne",
+    "overlord": "House Martell",
+    "coatOfArms": "Gytonny gules and sable, a hand couped"
+  },
+  {
+    "name": "House Ambrose",
+    "image": "http://awoiaf.westeros.org//images/thumb/9/9f/Ambrose.png/250px-Ambrose.png",
+    "words": "Never Resting",
+    "lord": "Lord Arthur Ambrose",
+    "region": "The Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "semy of ants gules"
+  },
+  {
+    "name": "House Appleton",
+    "image": "http://awoiaf.westeros.org//images/thumb/1/13/House_Appleton.png/250px-House_Appleton.png",
+    "seat": "Appleton",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "an apple tree eradicated proper fructed gules, quartered with argent, a gatehouse cendrée"
+  },
+  {
+    "name": "House Arryn",
+    "image": "http://awoiaf.westeros.org//images/thumb/b/be/House_Arryn.PNG/250px-House_Arryn.PNG",
+    "words": "As High as Honor",
+    "seat": "The Eyrie",
+    "lord": "Jon Arryn",
+    "region": "The Vale",
+    "overlord": "House Baratheon of King's Landing",
+    "founder": "Ser Artys Arryn",
+    "founded": "Coming of the Andals",
+    "coatOfArms": "Azure, upon a bezant argent a falcon volant of the field"
+  },
+  {
+    "name": "House Arryn of Gulltown",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Gulltown",
+    "region": "Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Ashford",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/74/House_Ashford.PNG/250px-House_Ashford.PNG",
+    "words": "Our Sun Shines Bright",
+    "seat": "Ashford",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Tenny, a sun in splendour beneath a chevron inverted argent"
+  },
+  {
+    "name": "House Ashwood",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "North",
+    "overlord": "House Stark",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Baelish",
+    "image": "http://awoiaf.westeros.org//images/b/b9/OldBaelish.png",
+    "lord": "Petyr Baelish",
+    "region": "the Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "a grey stone head with fiery eyes on a light green field."
+  },
+  {
+    "name": "House Ball",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/7b/Ball.png/250px-Ball.png",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Argent, three plates upon a chevron gules"
+  },
+  {
+    "name": "House Banefort",
+    "image": "http://awoiaf.westeros.org//images/thumb/a/ac/Banefort.png/300px-Banefort.png",
+    "seat": "Banefort",
+    "lord": "Quenten Banefort",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "founder": "The Hooded Man[1]",
+    "coatOfArms": "Cendrée, a man hooded sable within a tressure flambant gules"
+  },
+  {
+    "name": "House Bar Emmon",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e7/BarEmmon.png/250px-BarEmmon.png",
+    "seat": "Sharp Point",
+    "lord": "Duram Bar Emmon",
+    "region": "the Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Fretty argent and white, a swordfish embowed haurient azure"
+  },
+  {
+    "name": "House Baratheon",
+    "image": "http://awoiaf.westeros.org//images/thumb/d/d1/House_Baratheon.PNG/250px-House_Baratheon.PNG",
+    "words": "Ours is the Fury",
+    "seat": "Storm's End",
+    "lord": "Rengly Baratheon",
+    "region": "The Stormlands",
+    "overlord": "Baratheons of King's Landing",
+    "founder": "Orys Baratheon",
+    "founded": "9000 or 300 years ago",
+    "coatOfArms": "a crowned stag sable"
+  },
+  {
+    "name": "House Baratheon of Dragonstone",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/2e/Stannis_sigil_coat.png/250px-Stannis_sigil_coat.png",
+    "seat": "Dragonstone",
+    "lord": "Stannis Bar",
+    "region": "the Crownlands, Blackwater Bay",
+    "overlord": "House Baratheon of King's Landing",
+    "founder": "Stannis Baratheon",
+    "founded": "284AC",
+    "coatOfArms": "a crowned stag sable enclosed within a burning heart gules with flames orange"
+  },
+  {
+    "name": "House Baratheon of King's Landing",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5d/Joffrey_sigil_coat.png/250px-Joffrey_sigil_coat.png",
+    "seat": "King's Landing",
+    "lord": "Robert Baratheon",
+    "region": "the Crownlands",
+    "overlord": "none",
+    "founder": "Robert Baratheon",
+    "founded": "283AC",
+    "coatOfArms": "Crowned stag of House Baratheon"
+  },
+  {
+    "name": "House Beesbury",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/51/House_Beesbury.png/250px-House_Beesbury.png",
+    "words": "Beware our Sting",
+    "seat": "Honeyholt",
+    "lord": "Lord Warryn Beesbury",
+    "region": "the Reach",
+    "overlord": "House Hightower",
+    "coatOfArms": "Paly or and sable, on a pale of the last three beehives of the first"
+  },
+  {
+    "name": "House Belmore",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/20/Belmore.PNG/250px-Belmore.PNG",
+    "seat": "Strongsong",
+    "lord": "Lord Benedar Belmore",
+    "region": "The Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "Purpure, six bells argent"
+  },
+  {
+    "name": "House Bettley",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/6b/Bettley.png/250px-Bettley.png",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "three blue beetles on gold"
+  },
+  {
+    "name": "House Bigglestone",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "Riverlands",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Blackbar",
+    "image": "http://awoiaf.westeros.org//images/thumb/0/08/House_Blackbar.PNG/250px-House_Blackbar.PNG",
+    "seat": "Bandallon",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Argent, a fess sable"
+  },
+  {
+    "name": "House Blackberry",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "Crownlands or Stormlands",
+    "overlord": "House Baratheon of Dragonstone",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Blackfyre",
+    "image": "http://awoiaf.westeros.org//images/thumb/3/3f/House_Blackfyre_crest.png/250px-House_Blackfyre_crest.png",
+    "lord": "Extinct",
+    "overlord": "House Targaryen",
+    "founder": "Daemon Blackfyre",
+    "founded": "184AC",
+    "coatOfArms": "Gules, a three headed dragon breathing flames sable"
+  },
+  {
+    "name": "House Blackmont",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/2c/BlackmontCoA.png/250px-BlackmontCoA.png",
+    "seat": "Blackmont",
+    "lord": "Lady Larra Blackmont",
+    "region": "Dorne",
+    "overlord": "House Martell",
+    "coatOfArms": "A black vulture with a pink infant in its claws, on yellow"
+  },
+  {
+    "name": "House Blackmyre",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "The Neck",
+    "overlord": "House Reed",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Blacktyde",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/50/Blacktyde.PNG/250px-Blacktyde.PNG",
+    "seat": "Blacktyde[2]",
+    "region": "Iron Islands[2]",
+    "overlord": "House Greyjoy[2]",
+    "coatOfArms": "Vairy vert and sable[1]"
+  },
+  {
+    "name": "House Blackwood",
+    "image": "http://awoiaf.westeros.org//images/thumb/3/36/House_Blackwood.png/250px-House_Blackwood.png",
+    "seat": "Raventree Hall",
+    "lord": "Lord Tytos Blackwood",
+    "region": "the Riverlands",
+    "overlord": "House Baelish of Harrenhal",
+    "founded": "Age of Heroes",
+    "coatOfArms": "Scarlet, an escutcheon sable charged with a dead weirwood proper, all within an orle of ravens sable"
+  },
+  {
+    "name": "House Blanetree",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/66/BlanetreeCoA.png/250px-BlanetreeCoA.png",
+    "region": "the Riverlands",
+    "overlord": "House Tully",
+    "coatOfArms": "semy of maple leaves vert and tenné"
+  },
+  {
+    "name": "House Blount",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e8/House_Blount.PNG/250px-House_Blount.PNG",
+    "region": "the Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Vert, a bend sinister gules between two porcupines sable"
+  },
+  {
+    "name": "House Boggs",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "the Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Boggs (The Neck)",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "The Neck",
+    "overlord": "House Reed",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Bole",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "The North",
+    "overlord": "House Glover",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Bolling",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/66/House_Bolling.PNG/250px-House_Bolling.PNG",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Vairy tenny and azure, on a canton sable a stag debruised by a bend sinister of the first"
+  },
+  {
+    "name": "House Bolton",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/76/Bolton.png/250px-Bolton.png",
+    "words": "Our Blades are Sharp",
+    "seat": "The Dreadfort",
+    "lord": "Roose Bolton",
+    "region": "The North",
+    "overlord": "House Stark",
+    "coatOfArms": "Carnation goutty de sang, a man flayed proper"
+  },
+  {
+    "name": "House Borrell",
+    "image": "http://awoiaf.westeros.org//images/thumb/3/39/Borell.png/250px-Borell.png",
+    "seat": "Breakwater in Sisterton",
+    "lord": "Godric Borrell",
+    "region": "The Vale, Three Sisters",
+    "overlord": "House Sunderland",
+    "coatOfArms": "Vert, a spider crab argent"
+  },
+  {
+    "name": "House Botley",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/f7/Botley.png/250px-Botley.png",
+    "seat": "Lordsport",
+    "lord": "Lord Germund Botley",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": "Vert, semy of fishes argent"
+  },
+  {
+    "name": "House Bracken",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/53/Bracken_sigil_coat.png/250px-Bracken_sigil_coat.png",
+    "seat": "Stone Hedge",
+    "lord": "Jonos Bracken",
+    "region": "the Riverlands",
+    "overlord": "House Baelish of HarrenhalHouse Tully of Riverrun (Previously)",
+    "founded": "Age of Heroes",
+    "coatOfArms": "Tenny, an esutcheon charged with a stallion salient gules"
+  },
+  {
+    "name": "House Branch",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "The North",
+    "overlord": "House Glover",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Brax",
+    "image": "http://awoiaf.westeros.org//images/thumb/9/93/House_Brax.PNG/250px-House_Brax.PNG",
+    "seat": "Hornvale",
+    "lord": "Tytos Brax",
+    "region": "Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Argent, a unicorn salient purpure"
+  },
+  {
+    "name": "House Bridges",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/ef/Bridges.png/250px-Bridges.png",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "A black stone bridge with three arches upon a golden chief above three blue pallets on white"
+  },
+  {
+    "name": "House Broom",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/f3/House_Broom.png/250px-House_Broom.png",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "A silver helm crested with a sprig of broom on black and green checks"
+  },
+  {
+    "name": "House Brune of Brownhollow",
+    "image": "http://awoiaf.westeros.org//images/thumb/1/1c/House_Brune.PNG/250px-House_Brune.PNG",
+    "seat": "Brownhollow",
+    "lord": "Bennard Brune",
+    "region": "the Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "White, a bear paw, a double tressure tenné"
+  },
+  {
+    "name": "House Brune of the Dyre Den",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Dyre Den",
+    "lord": "Eustace Brune",
+    "region": "Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Buckler",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/81/House_Buckler.png/250px-House_Buckler.png",
+    "seat": "Bronzegate",
+    "lord": "Ralph Buckler",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Azure, three buckles or"
+  },
+  {
+    "name": "House Buckwell",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/63/House_Buckwell.PNG/250px-House_Buckwell.PNG",
+    "words": "Pride and Purpose",
+    "seat": "the Antlers",
+    "region": "the Crownlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Vair, a rack of antlers or."
+  },
+  {
+    "name": "House Bulwer",
+    "image": "http://awoiaf.westeros.org//images/thumb/d/d7/House_Bulwer.PNG/250px-House_Bulwer.PNG",
+    "words": "Death Before Disgrace",
+    "seat": "Blackcrown",
+    "lord": "Lady Alysanne Bulwer",
+    "region": "the Reach",
+    "overlord": "House Hightower",
+    "coatOfArms": "Sanguine, a bull`s skull argent"
+  },
+  {
+    "name": "House Burley",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/f4/House_Burley.PNG/250px-House_Burley.PNG",
+    "region": "the North",
+    "overlord": "House Stark",
+    "coatOfArms": "White, upon a pile azure a knife white"
+  },
+  {
+    "name": "House Bushy",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/2e/Bushy.PNG/250px-Bushy.PNG",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "A green fess embattled on white"
+  },
+  {
+    "name": "House Butterwell",
+    "image": "http://awoiaf.westeros.org//images/thumb/a/a1/House_Butterwell.png/250px-House_Butterwell.png",
+    "seat": "formerly Whitewalls",
+    "region": "the Riverlands",
+    "overlord": "House Baelish of Harrenhal",
+    "coatOfArms": "undy green, white, and yellow"
+  },
+  {
+    "name": "House Byrch",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/84/House_Byrch.PNG/250px-House_Byrch.PNG",
+    "region": "Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Gryonny argent and sable quartered with vert, an axe palewise of the first"
+  },
+  {
+    "name": "House Bywater",
+    "image": "http://awoiaf.westeros.org//images/thumb/1/1f/Bywater.PNG/250px-Bywater.PNG",
+    "region": "the Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Fretty azure on white, on a chief azure three fish argent"
+  },
+  {
+    "name": "House Cafferen",
+    "image": "http://awoiaf.westeros.org//images/thumb/9/94/Cafferen.png/250px-Cafferen.png",
+    "seat": "Fawnton",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Two white fawns counter salient on green"
+  },
+  {
+    "name": "House Cargyll",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/58/House_Cargyll.PNG/250px-House_Cargyll.PNG",
+    "lord": "extinct",
+    "region": "the Crownlands",
+    "overlord": "House Targaryen",
+    "coatOfArms": "Bendy sinister sable and gules, a goose"
+  },
+  {
+    "name": "House Caron",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/64/House_Caron.png/250px-House_Caron.png",
+    "words": "No Song so Sweet",
+    "seat": "Nightsong",
+    "lord": "Rolland Storm",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon of Dragonstone",
+    "coatOfArms": "semy of nightingales sable"
+  },
+  {
+    "name": "House Cassel",
+    "image": "http://awoiaf.westeros.org//images/thumb/c/c3/House_Cassel.PNG/250px-House_Cassel.PNG",
+    "lord": "Beth Cassel",
+    "region": "The North",
+    "overlord": "House Stark",
+    "coatOfArms": "Cendrée, ten wolf's heads argent within a bordure sable"
+  },
+  {
+    "name": "House Casterly",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Casterly Rock",
+    "lord": "Extinct",
+    "region": "the Westerlands",
+    "founder": "Caster",
+    "founded": "Age of Heroes",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Caswell",
+    "image": "http://awoiaf.westeros.org//images/thumb/1/10/House_Caswell.png/250px-House_Caswell.png",
+    "seat": "Bitterbridge",
+    "lord": "Lorent Caswell",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Argent, a centaur with bow or"
+  },
+  {
+    "name": "House Cave",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Celtigar",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/60/Celtigar.png/250px-Celtigar.png",
+    "seat": "Claw Isle",
+    "lord": "Ardrian Celtigar",
+    "region": "Blackwater Bay, the Crownlands",
+    "overlord": "House Baratheon of Dragonstone",
+    "founded": "prior to ~112 years before the Conquest",
+    "coatOfArms": "Argent, semy of crabs gules"
+  },
+  {
+    "name": "House Cerwyn",
+    "image": "http://awoiaf.westeros.org//images/thumb/d/d8/House_Cerwyn.PNG/250px-House_Cerwyn.PNG",
+    "words": "Honed and Ready",
+    "seat": "Castle Cerwyn",
+    "lord": "Jonelle Cerwyn",
+    "region": "The North",
+    "overlord": "House Stark",
+    "coatOfArms": "Argent, a battle-axe paleways sable"
+  },
+  {
+    "name": "House Chambers",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "Riverlands",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Charlton",
+    "image": "http://awoiaf.westeros.org//images/thumb/c/c1/Charlton.png/250px-Charlton.png",
+    "region": "the Riverlands",
+    "overlord": "House Frey",
+    "coatOfArms": "three sprigs of mistletoe vert, fructed gules, within a bordure vert"
+  },
+  {
+    "name": "House Chelsted",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/26/House_Chelsted.PNG/250px-House_Chelsted.PNG",
+    "region": "the Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Per bend green and white, a crossed spiked mace and a silver dagger"
+  },
+  {
+    "name": "House Chester",
+    "image": "http://awoiaf.westeros.org//images/thumb/0/06/Chester.png/250px-Chester.png",
+    "seat": "Greenshield",
+    "lord": "Lord Moribald Chester",
+    "region": "the Reach, Shield Islands",
+    "overlord": "House Tyrell",
+    "coatOfArms": "A green hand on a gold escutcheon on a green field, a border of red rayonne"
+  },
+  {
+    "name": "House Chyttering",
+    "image": "http://awoiaf.westeros.org//images/thumb/3/30/House_Chyttering.PNG/250px-House_Chyttering.PNG",
+    "seat": "Chyttering",
+    "lord": "Lucos Chyttering",
+    "region": "Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "three golden bendlets enhanced on white"
+  },
+  {
+    "name": "House Clegane",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/83/House_Clegane.png/250px-House_Clegane.png",
+    "seat": "Clegane's Keep",
+    "lord": "Gregor Clegane",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "three dogs courant in pale sable"
+  },
+  {
+    "name": "House Clifton",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "lord": "Ser Gareth Clifton",
+    "region": "Westerlands",
+    "overlord": "House Farman",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Cockshaw",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/f3/Cockshaw.png/250px-Cockshaw.png",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Sable, three feathers in fess gules argent and or"
+  },
+  {
+    "name": "House Codd",
+    "image": "http://awoiaf.westeros.org//images/thumb/3/33/House_Codd.png/250px-House_Codd.png",
+    "words": "Though All Men Do Despise Us",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Coldwater",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/57/House_Coldwater.PNG/250px-House_Coldwater.PNG",
+    "seat": "Coldwater Burn",
+    "lord": "Royce Coldwater",
+    "region": "The Vale",
+    "overlord": "House Royce",
+    "coatOfArms": "Gules, a pall azure fimbriated argent"
+  },
+  {
+    "name": "House Cole",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/74/House_Cole.png/250px-House_Cole.png",
+    "region": "the Stormlands",
+    "coatOfArms": "Gules, ten pellets"
+  },
+  {
+    "name": "House Condon",
+    "image": "http://awoiaf.westeros.org//images/thumb/1/13/House_Condon.PNG/250px-House_Condon.PNG",
+    "region": "North",
+    "overlord": "House Cerwyn",
+    "coatOfArms": "Argent, an eagle head between two crossed tridents, all gules"
+  },
+  {
+    "name": "House Conklyn",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Connington",
+    "image": "http://awoiaf.westeros.org//images/thumb/0/07/House_Connington.png/250px-House_Connington.png",
+    "seat": "Griffin's Roost",
+    "lord": "Jon Connington",
+    "region": "The Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Per pale gules and argent, two griffins combatant counterchanged."
+  },
+  {
+    "name": "House Corbray",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e0/Corbray.png/250px-Corbray.png",
+    "seat": "Heart's Home",
+    "lord": "Lyonel Corbray",
+    "overlord": "House Arryn",
+    "coatOfArms": "Argent, three ravens volant sable holding three hearts gules"
+  },
+  {
+    "name": "House Cordwayner",
+    "image": "http://awoiaf.westeros.org//images/thumb/b/b0/Cordwayner.png/250px-Cordwayner.png",
+    "seat": "Hammerhal",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Lozengny vert and or, a pair of boots sable"
+  },
+  {
+    "name": "House Costayne",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/57/House_Costayne.PNG/250px-House_Costayne.PNG",
+    "seat": "Three Towers",
+    "lord": "Lord Tommen Costayne",
+    "region": "the Reach",
+    "overlord": "House Hightower",
+    "coatOfArms": "Quarterly; sable, a chalice argent; or, a rose sable"
+  },
+  {
+    "name": "House Cox",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Saltpans",
+    "lord": "Ser Quincy Cox",
+    "overlord": "House Tully",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Crabb",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Whispers (former)",
+    "region": "Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Crakehall",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e4/House_Crakehall.PNG/250px-House_Crakehall.PNG",
+    "words": "None so Fierce",
+    "seat": "Crakehall",
+    "lord": "Roland Crakehall",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "founder": "Crake the Boar Killer[1]",
+    "coatOfArms": "Brunâtre, a brindled boar sable and argent"
+  },
+  {
+    "name": "House Crane",
+    "image": "http://awoiaf.westeros.org//images/thumb/1/14/House_Crane.PNG/250px-House_Crane.PNG",
+    "seat": "Red Lake",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Azure, cranes in chevron or"
+  },
+  {
+    "name": "House Cray",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "The Neck",
+    "overlord": "House Reed",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Cressey",
+    "image": "http://awoiaf.westeros.org//images/thumb/1/18/House_Cressy.PNG/250px-House_Cressy.PNG",
+    "region": "Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Azure, dexter chief and sinister base a helmet argent, seven coins argent upon a bend sinister gules"
+  },
+  {
+    "name": "House Crowl",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/f2/House_Crowl.PNG/250px-House_Crowl.PNG",
+    "seat": "Deepdown",
+    "region": "North",
+    "overlord": "House Stark",
+    "coatOfArms": "Pily gules and sable"
+  },
+  {
+    "name": "House Cupps",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Unknown",
+    "lord": "Unknown",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Cuy",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/57/House_Cuy.PNG/250px-House_Cuy.PNG",
+    "seat": "Sunhouse",
+    "lord": "Lord Branston Cuy",
+    "region": "the Reach",
+    "overlord": "House Hightower",
+    "coatOfArms": "Six yellow flowers on blue"
+  },
+  {
+    "name": "House Dalt",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/fb/DaltCoA.png/250px-DaltCoA.png",
+    "seat": "Lemonwood",
+    "lord": "Ser Deziel Dalt",
+    "region": "Dorne",
+    "overlord": "House Martell",
+    "coatOfArms": "Purpure, semy of lemons"
+  },
+  {
+    "name": "House Darke",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "Crownlands",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Darklyn",
+    "image": "http://awoiaf.westeros.org//images/thumb/c/c5/House_Darklyn.PNG/250px-House_Darklyn.PNG",
+    "seat": "the Dun Fort",
+    "lord": "Extinct",
+    "region": "the Crownlands",
+    "overlord": "House Targaryen",
+    "founded": "Age of Heroes",
+    "coatOfArms": "Fusily sable and or, upon a pale in dexter gules seven escutcheons argent"
+  },
+  {
+    "name": "House Darry",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/22/House_Darry.png/250px-House_Darry.png",
+    "seat": "Darry",
+    "lord": "Raymun Darry",
+    "region": "The Riverlands",
+    "overlord": "House Tully",
+    "coatOfArms": "Tennée, a plowman sable"
+  },
+  {
+    "name": "House Dayne",
+    "image": "http://awoiaf.westeros.org//images/thumb/1/15/DayneCoA.png/250px-DayneCoA.png",
+    "seat": "Starfall",
+    "lord": "Edric Dayne",
+    "region": "Dorne",
+    "overlord": "House Martell",
+    "coatOfArms": "Purpure, a blazing star bendways surmounted by a sword bendways sinister argent"
+  },
+  {
+    "name": "House Dayne of High Hermitage",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "High Hermitage",
+    "lord": "Ser Gerold Dayne",
+    "region": "Dorne",
+    "overlord": "House Dayne",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Deddings",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "the Riverlands",
+    "overlord": "House Baelish of Harrenhal",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Doggett",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/75/House_Doggett.PNG/250px-House_Doggett.PNG",
+    "region": "Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Per bend, the first vert, a unicorn salient argent, the second of the same, a raven sable"
+  },
+  {
+    "name": "House Dondarrion",
+    "image": "http://awoiaf.westeros.org//images/thumb/1/1d/Dondarrion.png/270px-Dondarrion.png",
+    "seat": "Blackhaven",
+    "lord": "Lord Beric Dondarrion",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon",
+    "founded": "Before 1AC",
+    "coatOfArms": "Sable, semy of stars of four points argent, a lightning bolt forked purpure"
+  },
+  {
+    "name": "House Donniger",
+    "image": "http://awoiaf.westeros.org//images/thumb/1/16/Donniger.png/250px-Donniger.png",
+    "region": "Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "issuant from the sea proper a demi sun in splendour gules"
+  },
+  {
+    "name": "House Drinkwater",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "Dorne",
+    "overlord": "House Yronwood",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Drox",
+    "image": "http://awoiaf.westeros.org//images/thumb/c/cf/Drox.png/250px-Drox.png",
+    "region": "Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Three black crossbows, on gold, a black border"
+  },
+  {
+    "name": "House Drumm",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/f9/Drumm.png/250px-Drumm.png",
+    "lord": "Lord Dunstan Drumm",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": "Gules, a bone hand argent"
+  },
+  {
+    "name": "House Dunn",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/52/Dunn.png/250px-Dunn.png",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "per pale black and pink, a countercharged two-headed pelican"
+  },
+  {
+    "name": "House Durwell",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Dustin",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/74/House_Dustin.PNG/300px-House_Dustin.PNG",
+    "seat": "Barrow Hall in Barrowton",
+    "lord": "Lady Barbrey Dustin",
+    "region": "The North",
+    "overlord": "House Stark",
+    "coatOfArms": "two longaxes bladed gules crossed, a crown between sable"
+  },
+  {
+    "name": "House Edgerton",
+    "image": "http://awoiaf.westeros.org//images/thumb/0/04/Edgerton.png/200px-Edgerton.png",
+    "region": "Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Purpure, a wheel flaming tenny quartered with half-fusilly sable and argent"
+  },
+  {
+    "name": "House Egen",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/8a/House_Egen.PNG/250px-House_Egen.PNG",
+    "words": "By Day or Night",
+    "region": "the Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "Argent, on a chief azure an increscent of the first between a sun in splendour and a star of the first"
+  },
+  {
+    "name": "House Elesham",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/51/Elesham.png/250px-Elesham.png",
+    "seat": "the Paps",
+    "region": "Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "Purpure, between a star sable two piles issuant from base cendrée"
+  },
+  {
+    "name": "House Erenford",
+    "image": "http://awoiaf.westeros.org//images/2/22/Erenford.png",
+    "region": "the Riverlands",
+    "overlord": "House Frey",
+    "coatOfArms": "Purpure, a heron beaked and membered sable, in its mouth a fish argent"
+  },
+  {
+    "name": "House Errol",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/88/Errol.png/250px-Errol.png",
+    "seat": "Haystack Hall",
+    "lord": "Sebastion Errol",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Tenny, a haystack"
+  },
+  {
+    "name": "House Estermont",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5a/House_Estermont.PNG/250px-House_Estermont.PNG",
+    "seat": "Greenstone",
+    "lord": "Lord Eldon Estermont",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Vert, a sea turtle vert"
+  },
+  {
+    "name": "House Estren",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/27/House_Estren.PNG/250px-House_Estren.PNG",
+    "seat": "Wyndhall",
+    "lord": "Regenard Estren",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Argent, a saltire vert between four eagles double-headed gules"
+  },
+  {
+    "name": "House Falwell",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/fe/Falwell.png/250px-Falwell.png",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Sable, a fool proper clothed in motley gules and juggling five suns of the same"
+  },
+  {
+    "name": "House Farman",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/83/Farman.png/250px-Farman.png",
+    "seat": "Faircastle",
+    "lord": "Sebaston Farman",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Azure, three ships argent within a bordure compony gules and"
+  },
+  {
+    "name": "House Farring",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/6f/House_Farring.PNG/250px-House_Farring.PNG",
+    "region": "the Crownlands",
+    "overlord": "House Baratheon of Dragonstone",
+    "coatOfArms": "Per pale purpure and argent, two knights combatant crossing swords counterchanged"
+  },
+  {
+    "name": "House Farwynd",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Sealskin Point",
+    "lord": "Triston Farwynd",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Farwynd of the Lonely Light",
+    "image": "http://awoiaf.westeros.org//images/5/5d/Farwynd.png",
+    "seat": "Lonely Light",
+    "lord": "Gylbert Farwynd",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": "Per fess wavy tenny and sable, a demi-torteaux gules issuant from the division surmounted by a longship sailing upon the division of the second"
+  },
+  {
+    "name": "House Fell",
+    "image": "http://awoiaf.westeros.org//images/thumb/3/34/House_Fell.PNG/250px-House_Fell.PNG",
+    "seat": "Felwood",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Per fess indented vert and sable a moon argent"
+  },
+  {
+    "name": "House Fenn",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e2/Fenn.png/250px-Fenn.png",
+    "region": "The Neck",
+    "overlord": "House Reed",
+    "coatOfArms": "Purpure, three water lilies sable"
+  },
+  {
+    "name": "House Ferren",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/52/Ferren.png/250px-Ferren.png",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "per saltire chequy gules and and vert, in the flank points two ferrets combatant proper"
+  },
+  {
+    "name": "House Fisher",
+    "image": "http://awoiaf.westeros.org//images/4/44/Fisher.png",
+    "lord": "Extinct",
+    "region": "the Riverlands",
+    "coatOfArms": "Azure, a catfish argent crowned"
+  },
+  {
+    "name": "House Flint of Flint's Finger",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5d/House_Flint_of_Flint%27s_Finger.PNG/250px-House_Flint_of_Flint%27s_Finger.PNG",
+    "seat": "Flint's Finger",
+    "lord": "possibly Robin Flint[1][2]",
+    "region": "The North",
+    "overlord": "House Stark",
+    "coatOfArms": "Paly sable and cendrée on a pall inverted argent a hand couped of the second"
+  },
+  {
+    "name": "House Flint of the mountains",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "northern mountains",
+    "lord": "Torghen Flint",
+    "region": "The North,",
+    "overlord": "House Stark",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Flint of Widow's Watch",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e8/Flint_Widows_Watch.png/250px-Flint_Widows_Watch.png",
+    "words": "Ever Vigilant",
+    "seat": "Widow's Watch",
+    "lord": "Lady Lyessa Flint",
+    "region": "The North",
+    "overlord": "House Stark",
+    "coatOfArms": "Azure, semy of whitecaps argent on a chief wavy two eyes of the second irised of the first and pupiled sable"
+  },
+  {
+    "name": "House Florent",
+    "image": "http://awoiaf.westeros.org//images/thumb/c/c1/House_Florent.PNG/250px-House_Florent.PNG",
+    "seat": "Brightwater Keep (disputed by House Tyrell of Brightwater Keep)",
+    "lord": "Alekyne Florent",
+    "region": "the Reach",
+    "overlord": "House Baratheon of Dragonstone (disputed by House Tyrell)",
+    "coatOfArms": "Ermine, a fox's head cabossed within an annulet of flowers, all proper"
+  },
+  {
+    "name": "House Follard",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/24/Follard.png/250px-Follard.png",
+    "words": "None so Wise",
+    "region": "the Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Gyronny gules and argent, on a canton a fool's cap two peaked of the first and second"
+  },
+  {
+    "name": "House Foote",
+    "image": "http://awoiaf.westeros.org//images/thumb/0/0c/House_Foote.PNG/250px-House_Foote.PNG",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Argent, a dagger copper proper across a chevron sable"
+  },
+  {
+    "name": "House Foote of Nightsong",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Nightsong",
+    "lord": "Philip Foote",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon of King's Landing",
+    "founder": "Philip Foote",
+    "founded": "299AC",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Footly",
+    "image": "http://awoiaf.westeros.org//images/thumb/a/a0/Footly.png/250px-Footly.png",
+    "words": "Tread Lightly Here",
+    "seat": "Tumbleton",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "a field of silver caltrops on black"
+  },
+  {
+    "name": "House Forrester",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "words": "Iron from Ice",
+    "seat": "Ironrath",
+    "region": "The North",
+    "overlord": "House Glover",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Fossoway of New Barrel",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/77/House_Fossoway_green.png/250px-House_Fossoway_green.png",
+    "seat": "New Barrel",
+    "lord": "Ser Jon Fossoway",
+    "region": "The Reach",
+    "overlord": "House Tyrell",
+    "founder": "Raymun Fossoway",
+    "founded": "209AC",
+    "coatOfArms": "an apple vert"
+  },
+  {
+    "name": "House Fowler",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/6f/FowlerCoA.png/250px-FowlerCoA.png",
+    "words": "Let Me Soar",
+    "seat": "Skyreach",
+    "lord": "Lord Franklyn Fowler",
+    "region": "Dorne",
+    "overlord": "House Martell",
+    "coatOfArms": "Argent, a hooded hawk trussed azure"
+  },
+  {
+    "name": "House Frey",
+    "image": "http://awoiaf.westeros.org//images/thumb/3/3b/House_Frey.png/250px-House_Frey.png",
+    "seat": "The Twins",
+    "lord": "Walder Frey",
+    "region": "the Riverlands",
+    "overlord": "House Tully",
+    "founded": "600 years ago",
+    "coatOfArms": "Two blue towers, united by a bridge, on silver-grey."
+  },
+  {
+    "name": "House Gardener",
+    "image": "http://awoiaf.westeros.org//images/thumb/9/9a/House_Gardner.PNG/300px-House_Gardner.PNG",
+    "seat": "Highgarden",
+    "lord": "Extinct",
+    "region": "the Reach",
+    "founder": "Garth Greenhand",
+    "founded": "Age of Heroes",
+    "coatOfArms": "Argent, a hand couped vert"
+  },
+  {
+    "name": "House Gargalen",
+    "image": "http://awoiaf.westeros.org//images/thumb/a/ac/GargalenCoA.png/250px-GargalenCoA.png",
+    "seat": "Salt Shore",
+    "lord": "Lord Tremond Gargalen",
+    "region": "Dorne",
+    "overlord": "House Martell",
+    "coatOfArms": "a cockatrice gules, in its beak a serpent sable"
+  },
+  {
+    "name": "House Garner",
+    "image": "http://awoiaf.westeros.org//images/thumb/b/b7/House_Garner.PNG/250px-House_Garner.PNG",
+    "region": "Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Vert three plates charged with owls cendrée"
+  },
+  {
+    "name": "House Gaunt",
+    "image": "http://awoiaf.westeros.org//images/thumb/d/db/House_Gaunt.PNG/250px-House_Gaunt.PNG",
+    "region": "the Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Purpure, three lances palewise in fess between two flaunches sable"
+  },
+  {
+    "name": "House Glover",
+    "image": "http://awoiaf.westeros.org//images/thumb/3/3d/House_Glover.PNG/250px-House_Glover.PNG",
+    "seat": "Deepwood Motte",
+    "lord": "Galbart Glover",
+    "region": "The North",
+    "overlord": "House Stark",
+    "coatOfArms": "Gules, a gauntlet argent"
+  },
+  {
+    "name": "House Goodbrook",
+    "image": "http://awoiaf.westeros.org//images/thumb/9/95/House_Goodbrook.PNG/250px-House_Goodbrook.PNG",
+    "lord": "Lord Lymond Goodbrook",
+    "region": "the Riverlands",
+    "overlord": "House Tully",
+    "coatOfArms": "a bend wavy azure"
+  },
+  {
+    "name": "House Goodbrother",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/7b/House_Goodbrother.png/250px-House_Goodbrother.png",
+    "seat": "Hammerhorn",
+    "lord": "Lord Gorold Goodbrother",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": "Gules, a warhorn sable banded or."
+  },
+  {
+    "name": "House Goodbrother of Corpse Lake",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Corpse Lake[1]",
+    "region": "Iron Islands[1]",
+    "overlord": "House Goodbrother[1]",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Goodbrother of Crow Spike Keep",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Crow Spike Keep[1]",
+    "region": "Iron Islands[1]",
+    "overlord": "House Goodbrother[1]",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Goodbrother of Downdelving",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Downdelving[1]",
+    "region": "Iron Islands[1]",
+    "overlord": "House Goodbrother[1]",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Goodbrother of Orkmont",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Goodbrother of Shatterstone",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Shatterstone",
+    "lord": "Norne Goodbrother",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Gower",
+    "image": "http://awoiaf.westeros.org//images/thumb/4/4b/Gower.PNG/250px-Gower.PNG",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Ermine, on a cross sable nine trefoils"
+  },
+  {
+    "name": "House Graceford",
+    "image": "http://awoiaf.westeros.org//images/thumb/0/0e/Graceford.png/250px-Graceford.png",
+    "words": "Work Her Will",
+    "seat": "Holyhall",
+    "lord": "Lady Alyce Graceford",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Tenny, on a pale wavy argent the Mother's face proper"
+  },
+  {
+    "name": "House Grafton",
+    "image": "http://awoiaf.westeros.org//images/thumb/9/91/Grafton.png/250px-Grafton.png",
+    "seat": "Gulltown",
+    "lord": "Gerold Grafton",
+    "region": "the Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "Gules, on a pile sable a tower flaming proper"
+  },
+  {
+    "name": "House Grandison",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/82/House_Grandison.PNG/250px-House_Grandison.PNG",
+    "words": "Rouse Me Not",
+    "seat": "Grandview",
+    "lord": "Hugh Grandison",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "a lion dormant sable"
+  },
+  {
+    "name": "House Graves",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/75/Graves.PNG/250px-Graves.PNG",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Gyronny vert and argent an eagle double-headed counterchanged beaked and membered"
+  },
+  {
+    "name": "House Greenfield",
+    "image": "http://awoiaf.westeros.org//images/thumb/9/9a/House_Greenfield.PNG/250px-House_Greenfield.PNG",
+    "seat": "Greenfield",
+    "lord": "Ser Garth Greenfield",
+    "region": "The Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "a double tressure white on green"
+  },
+  {
+    "name": "House Greengood",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "The Neck",
+    "overlord": "House Reed",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Grell",
+    "image": "http://awoiaf.westeros.org//images/thumb/b/b7/House_Grell.PNG/250px-House_Grell.PNG",
+    "region": "the Riverlands",
+    "overlord": "House Tully",
+    "coatOfArms": "Azure, on a bend argent three martlets gules"
+  },
+  {
+    "name": "House Grey",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "Riverlands",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Greyiron",
+    "image": "http://awoiaf.westeros.org//images/6/6d/Greyiron.png",
+    "seat": "Orkmont",
+    "region": "the Iron Islands",
+    "overlord": "Extinct",
+    "coatOfArms": "The sea king's head, white with dark green seaweed beard and hair, a black crown on a grey field"
+  },
+  {
+    "name": "House Greyjoy",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/f3/Greyjoy_coat_sigil.png/250px-Greyjoy_coat_sigil.png",
+    "words": "We Do Not Sow",
+    "seat": "Pyke",
+    "lord": "Balon Greyjoy",
+    "region": "Iron Islands",
+    "overlord": "House Baratheon of King's Landing",
+    "founded": "Age of Heroes",
+    "coatOfArms": "Sable, a kraken"
+  },
+  {
+    "name": "House Greystark",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Wolf's Den",
+    "lord": "Extinct",
+    "region": "the North",
+    "overlord": "House Stark",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Grimm",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/7d/Grimm.png/250px-Grimm.png",
+    "seat": "Grimston",
+    "lord": "Guthor Grimm",
+    "region": "The Reach, the Shield Islands",
+    "overlord": "House Tyrell",
+    "coatOfArms": "An iron escutcheon with silver studs on a grey-green field strewn with longships proper"
+  },
+  {
+    "name": "House Haigh",
+    "image": "http://awoiaf.westeros.org//images/thumb/0/0c/Haigh.png/250px-Haigh.png",
+    "region": "the Riverlands",
+    "overlord": "House Frey",
+    "coatOfArms": "Tenné, upon a bend sinister a pitchfork sable"
+  },
+  {
+    "name": "House Hamell",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/6c/Hamell.PNG/250px-Hamell.PNG",
+    "region": "Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Carnation, a maunch within a bordure erminois"
+  },
+  {
+    "name": "House Harclay",
+    "image": "http://awoiaf.westeros.org//images/thumb/0/0f/House_Harclay.PNG/250px-House_Harclay.PNG",
+    "region": "the North",
+    "overlord": "House Stark",
+    "coatOfArms": "Azure, on a bend argent a hurt between an increscent and decrescent of the first"
+  },
+  {
+    "name": "House Hardy",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Hardyng",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/7e/House_Hardyng.PNG/250px-House_Hardyng.PNG",
+    "region": "the Vale",
+    "overlord": "House Waynwood",
+    "coatOfArms": "Lozengy argent and gules"
+  },
+  {
+    "name": "House Harlaw",
+    "image": "http://awoiaf.westeros.org//images/thumb/3/32/House_Harlaw.PNG/250px-House_Harlaw.PNG",
+    "seat": "Ten Towers",
+    "lord": "Lord Rodrik Harlaw",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": "Sable, a scythe argent"
+  },
+  {
+    "name": "House Harlaw of Grey Garden",
+    "image": "http://awoiaf.westeros.org//images/thumb/b/bb/Harris_Harlaw.png/250px-Harris_Harlaw.png",
+    "seat": "Grey Garden, Harlaw",
+    "lord": "Ser Harras Harlaw",
+    "region": "Iron Islands",
+    "overlord": "House Harlaw",
+    "coatOfArms": "Quartered: a silver scythe on black, a peacock on cream"
+  },
+  {
+    "name": "House Harlaw of Harlaw Hall",
+    "image": "http://awoiaf.westeros.org//images/thumb/a/ab/Sigfryd_Harlaw.png/250px-Sigfryd_Harlaw.png",
+    "seat": "Harlaw Hall, Harlaw",
+    "lord": "Sigfryd Harlaw",
+    "region": "Iron Islands",
+    "overlord": "House Harlaw",
+    "coatOfArms": "Per bend black and silver, two scythes counterchanged"
+  },
+  {
+    "name": "House Harlaw of Harridan Hill",
+    "image": "http://awoiaf.westeros.org//images/thumb/d/dd/Boremund_Harlaw.PNG/250px-Boremund_Harlaw.PNG",
+    "seat": "Harridan Hill, Harlaw",
+    "lord": "Boremund Harlaw",
+    "region": "Iron Islands",
+    "overlord": "House Harlaw",
+    "coatOfArms": "the Harlaw scythe on a pale blue field"
+  },
+  {
+    "name": "House Harlaw of the Tower of Glimmering",
+    "image": "http://awoiaf.westeros.org//images/thumb/b/b7/Hotho_Harlaw.png/250px-Hotho_Harlaw.png",
+    "seat": "Tower of Glimmering, Harlaw",
+    "lord": "Hotho Harlaw",
+    "region": "Iron Islands",
+    "overlord": "House Harlaw",
+    "coatOfArms": "The Harlaw scythe girdled within an embattled border."
+  },
+  {
+    "name": "House Harroway",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/77/Harroway.png/250px-Harroway.png",
+    "seat": "Harrenhal",
+    "lord": "Extinct",
+    "region": "the Riverlands",
+    "overlord": "House Tully",
+    "coatOfArms": "Per bend sinister orange and sable rayonne, a castle countercharged"
+  },
+  {
+    "name": "House Harte",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/83/House_Harte.PNG/250px-House_Harte.PNG",
+    "region": "the Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Three red hart's heads caboshed on a white bend on vair"
+  },
+  {
+    "name": "House Hastwyck",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/87/House_Hastwyck.PNG/250px-House_Hastwyck.PNG",
+    "words": "None so Dutiful",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Barry olive and ivory"
+  },
+  {
+    "name": "House Hasty",
+    "image": "http://awoiaf.westeros.org//images/thumb/9/98/House_Hasty.PNG/200px-House_Hasty.PNG",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Purpure, a bend cotissed argent"
+  },
+  {
+    "name": "House Hawick",
+    "image": "http://awoiaf.westeros.org//images/thumb/0/09/Hawick.png/250px-Hawick.png",
+    "seat": "Saltpans",
+    "region": "the Riverlands",
+    "overlord": "House Baelish of Harrenhal",
+    "coatOfArms": "Azure, semy of seabirds argent"
+  },
+  {
+    "name": "House Hawthorne",
+    "image": "http://awoiaf.westeros.org//images/thumb/a/a8/Hawthorne.jpg/250px-Hawthorne.jpg",
+    "region": "Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "A ring of black thorns and a ring of pink flowers, interlocked, on green"
+  },
+  {
+    "name": "House Hayford",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/7c/Hayford.PNG/250px-Hayford.PNG",
+    "seat": "Hayford",
+    "lord": "Lady Ermesande Hayford",
+    "region": "the Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Green fretty over gold, a green pale wavy"
+  },
+  {
+    "name": "House Herston",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/65/Herston.png/250px-Herston.png",
+    "region": "Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "A yellow rooster's head with red comb, within a white escutcheon, on red"
+  },
+  {
+    "name": "House Hersy",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/f7/Hersy.png/250px-Hersy.png",
+    "seat": "Newkeep",
+    "region": "the Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "a white winged chalice on pink"
+  },
+  {
+    "name": "House Hetherspoon",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/74/Hetherspoon.PNG/250px-Hetherspoon.PNG",
+    "lord": "Tybolt Hetherspoon",
+    "region": "The Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Lozengy tenée and sable, a cartouche argent, a spoon or"
+  },
+  {
+    "name": "House Hewett",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/2c/Hewett.png/250px-Hewett.png",
+    "seat": "Lord Hewett's castle on Oakenshield",
+    "lord": "Lord Humfrey Hewett",
+    "region": "The Reach  Shield Islands",
+    "overlord": "House Tyrell",
+    "coatOfArms": "an oaken escutcheon studded with iron on a field bendy of undulating blue and white"
+  },
+  {
+    "name": "House Hightower",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/7c/House_Hightower.png/250px-House_Hightower.png",
+    "words": "We Light the Way",
+    "seat": "Hightower",
+    "lord": "Leyton Hightower",
+    "region": "The Reach",
+    "overlord": "House Tyrell",
+    "founded": "Age of Dawn",
+    "coatOfArms": "Cendrée, a tower argent with a beacon on fire gules"
+  },
+  {
+    "name": "House Hoare",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5d/Hoare.png/250px-Hoare.png",
+    "seat": "OrkmontHarrenhal",
+    "region": "Iron IslandsRiverlands",
+    "coatOfArms": "Per saltire sable, azure, argent and two chains saltireways argent between in chief a longship in dexter a crow volant sable, in sinister a pine vert and in base a bunch of grapes gules"
+  },
+  {
+    "name": "House Hogg",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Sow's Horn",
+    "lord": "Ser Roger Hogg",
+    "region": "Crownlands",
+    "overlord": "House Hayford",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Hollard",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5f/House_Hollard.PNG/200px-House_Hollard.PNG",
+    "lord": "Extinct",
+    "region": "the Crownlands",
+    "overlord": "House Darklyn",
+    "coatOfArms": "Barry gules and carnation, a chief azure with three crowns"
+  },
+  {
+    "name": "House Holt",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "North",
+    "overlord": "House Stark",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Long",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "North",
+    "overlord": "House Stark",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Hornwood",
+    "image": "http://awoiaf.westeros.org//images/thumb/0/01/House_Hornwood.PNG/250px-House_Hornwood.PNG",
+    "words": "Righteous in Wrath",
+    "seat": "Hornwood",
+    "region": "the North",
+    "overlord": "House Stark",
+    "coatOfArms": "Tenny, a bull moose trippant proper"
+  },
+  {
+    "name": "House Horpe",
+    "image": "http://awoiaf.westeros.org//images/thumb/1/14/Horpe.png/250px-Horpe.png",
+    "region": "Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Per chevron engrailed cendrée and argent, three death's head moths counterchanged"
+  },
+  {
+    "name": "House Humble",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Hunt",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e1/Hunt.png/250px-Hunt.png",
+    "region": "The Reach",
+    "overlord": "House Tarly",
+    "coatOfArms": "Argent, a deer bound and slung on a pole fesswise tenny"
+  },
+  {
+    "name": "House Hunter",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/f0/House_Hunter.PNG/250px-House_Hunter.PNG",
+    "seat": "Longbow Hall",
+    "lord": "Gilwood Hunter",
+    "region": "The Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "Tenny, five arrows in fret with heads to chief argent"
+  },
+  {
+    "name": "House Hutcheson",
+    "image": "http://awoiaf.westeros.org//images/thumb/0/08/Hutcheson.png/250px-Hutcheson.png",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "two bendlets between in base dexter a hand pointing to chief sinister, and in chief sinister a sun in splendour gules"
+  },
+  {
+    "name": "House Inchfield",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e9/Inchfield.PNG/250px-Inchfield.PNG",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Cendrée, a bend sinister chequy sable and argent"
+  },
+  {
+    "name": "House Ironmaker",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "lord": "Erik Ironmaker",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Ironsmith",
+    "image": "http://awoiaf.westeros.org//images/thumb/1/1e/Ironsmith1.png/250px-Ironsmith1.png",
+    "region": "North",
+    "overlord": "House Stark",
+    "coatOfArms": "a sword palewise between four horseshoes sable all within a bordure vert"
+  },
+  {
+    "name": "House Jast",
+    "image": "http://awoiaf.westeros.org//images/thumb/4/4d/House_Jast.PNG/250px-House_Jast.PNG",
+    "lord": "Antario Jast",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Sable, a pall inverted between three lion's heads erased"
+  },
+  {
+    "name": "House Jordayne",
+    "image": "http://awoiaf.westeros.org//images/thumb/a/ae/JordayneCoA.png/250px-JordayneCoA.png",
+    "words": "Let it be Written",
+    "seat": "The Tor",
+    "lord": "Lord Trebor Jordayne",
+    "region": "Dorne",
+    "overlord": "House Martell",
+    "coatOfArms": "Chequy light and dark green, a quill or."
+  },
+  {
+    "name": "House Justman",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/8f/House_Justman.PNG/250px-House_Justman.PNG",
+    "lord": "Extinct",
+    "region": "Riverlands",
+    "coatOfArms": "Argent, a pair of scales within a double tressure azure"
+  },
+  {
+    "name": "House Karstark",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5f/House_Karstark.PNG/250px-House_Karstark.PNG",
+    "words": "The Sun of Winter",
+    "seat": "Karhold",
+    "lord": "Rickard Karstark",
+    "region": "The North",
+    "overlord": "House Stark",
+    "founder": "Karlon Stark",
+    "founded": "One thousand years ago",
+    "coatOfArms": "Sable, a sunburst argent"
+  },
+  {
+    "name": "House Keath",
+    "image": "http://awoiaf.westeros.org//images/thumb/4/43/KeathCoA.png/250px-KeathCoA.png",
+    "region": "Riverlands",
+    "coatOfArms": "Quarterly of nine; first, third, fifth, seventh and ninth cendrée, a fish argent; second, fourth, sixth and eight argent, a fish hook"
+  },
+  {
+    "name": "House Kellington",
+    "image": "http://awoiaf.westeros.org//images/c/c7/Kellington.png",
+    "region": "Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "A black book bound in bronze, locked, upon a pale blue field"
+  },
+  {
+    "name": "House Kenning of Harlaw",
+    "image": "http://awoiaf.westeros.org//images/thumb/c/c3/Kenning.png/300px-Kenning.png",
+    "region": "Iron Islands",
+    "overlord": "House Harlaw",
+    "coatOfArms": "Sable, issuant from a cloud bank in chief the Storm God's hand cendrée with lightning flashing from its fingertip"
+  },
+  {
+    "name": "House Kenning of Kayce",
+    "image": "http://awoiaf.westeros.org//images/thumb/4/4b/House_Kenning.PNG/250px-House_Kenning.PNG",
+    "seat": "Kayce",
+    "lord": "Terrence Kenning",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "founder": "Herrock Kenning",
+    "coatOfArms": "Quarterly tenny and sable, four suns in splendour counterchanged"
+  },
+  {
+    "name": "House Kettleblack",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e1/Kettleblack.png/250px-Kettleblack.png",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Gules, a kettle within an orle sable"
+  },
+  {
+    "name": "House Kidwell",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/8d/Kidwell.png/250px-Kidwell.png",
+    "seat": "Ivy Hall",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Cendrée masoned sable, semy of ivy leaves vert"
+  },
+  {
+    "name": "House Knott",
+    "image": "http://awoiaf.westeros.org//images/thumb/b/b6/House_Knott.PNG/250px-House_Knott.PNG",
+    "region": "the North",
+    "overlord": "House Stark",
+    "coatOfArms": "Argent, a saltire surmounted by a fret tenny"
+  },
+  {
+    "name": "House Ladybright",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "Dorne",
+    "overlord": "House Martell",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Lake",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/79/Lake.png/250px-Lake.png",
+    "region": "North",
+    "overlord": "House Stark",
+    "coatOfArms": "Tenny, seven pommes arranged 2-2-2-1"
+  },
+  {
+    "name": "House Langward",
+    "image": "http://awoiaf.westeros.org//images/c/c6/Langward.png",
+    "region": "Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Per fess undy: A crown of white stars on burgundy above black"
+  },
+  {
+    "name": "House Lannister",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/88/House_Lannister.png/250px-House_Lannister.png",
+    "words": "Hear Me Roar!",
+    "seat": "Casterly Rock",
+    "lord": "Tywin Lannister",
+    "region": "the Westerlands",
+    "overlord": "House Baratheon of King's Landing",
+    "founder": "Lann the Clever",
+    "founded": "Age of Heroes",
+    "coatOfArms": "Gules, a lion"
+  },
+  {
+    "name": "House Lannister of Lannisport",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Lannisport",
+    "region": "Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Lefford",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/71/House_Lefford.PNG/250px-House_Lefford.PNG",
+    "seat": "Golden Tooth",
+    "lord": "Unknown",
+    "region": "The Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Azure, a pile issuant from base in dexter chief a sun in splendour"
+  },
+  {
+    "name": "House Leygood",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e7/Leygood.png/250px-Leygood.png",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Tenny, three thunderbolts in fess sable"
+  },
+  {
+    "name": "House Liddle",
+    "image": "http://awoiaf.westeros.org//images/thumb/d/d4/House_Liddle.PNG/250px-House_Liddle.PNG",
+    "lord": "Torren Liddle",
+    "region": "the North",
+    "overlord": "House Stark",
+    "coatOfArms": "Per pale argent and vert, a fir tree line between, three brown pinecones on the argent"
+  },
+  {
+    "name": "House Lightfoot",
+    "image": "http://awoiaf.westeros.org//images/thumb/a/a7/Lightfoot.png/250px-Lightfoot.png",
+    "region": "North",
+    "overlord": "House Stark",
+    "coatOfArms": "Tenny, a trail of footprints in bend sinister argent"
+  },
+  {
+    "name": "House Locke",
+    "image": "http://awoiaf.westeros.org//images/thumb/9/9e/House_Locke.PNG/250px-House_Locke.PNG",
+    "seat": "Oldcastle",
+    "lord": "Lord Ondrew Locke",
+    "region": "the North",
+    "overlord": "House Stark",
+    "coatOfArms": "Two bronze keys crossed on an argent pale on purpure."
+  },
+  {
+    "name": "House Lolliston",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e7/House_Lolliston.PNG/250px-House_Lolliston.PNG",
+    "region": "Riverlands",
+    "coatOfArms": "White, three oaken barrels proper"
+  },
+  {
+    "name": "House Longthorpe",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Longsister",
+    "lord": "Rolland Longthorpe",
+    "region": "Vale",
+    "overlord": "House Sunderland",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Lonmouth",
+    "image": "http://awoiaf.westeros.org//images/thumb/c/ce/House_Lonmouth.PNG/250px-House_Lonmouth.PNG",
+    "words": "The Choice is Yours",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Quarterly of six; first, third and fifth semy of lips gules; second, fourth and sixth sable, semy of skulls argent"
+  },
+  {
+    "name": "House Lorch",
+    "image": "http://awoiaf.westeros.org//images/thumb/0/05/House_Lorch.png/250px-House_Lorch.png",
+    "lord": "Lorent Lorch",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "White, a manticore passant sable, a chief gules with three coins"
+  },
+  {
+    "name": "House Lothston",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/ff/House_Lothston.PNG/250px-House_Lothston.PNG",
+    "seat": "Harrenhal",
+    "lord": "Extinct",
+    "region": "The Riverlands",
+    "overlord": "House Tully",
+    "coatOfArms": "Party per bend argent and or, a bat displayed sable"
+  },
+  {
+    "name": "House Lowther",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/68/House_Lowther.PNG/250px-House_Lowther.PNG",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "A silver dolphin on a blue-green field"
+  },
+  {
+    "name": "House Lyberr",
+    "image": "http://awoiaf.westeros.org//images/thumb/3/31/Lyberr.png/250px-Lyberr.png",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Per bend sinister: a grey cat's face on black, a brown jug on white"
+  },
+  {
+    "name": "House Lychester",
+    "image": "http://awoiaf.westeros.org//images/thumb/d/dc/LychesterCoA.png/250px-LychesterCoA.png",
+    "seat": "Castle Lychester",
+    "lord": "Lymond Lychester",
+    "region": "Riverlands",
+    "overlord": "House Baelish of Harrenhal",
+    "coatOfArms": "Gyronny tenny and argent, a talon sable"
+  },
+  {
+    "name": "House Lydden",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/ec/House_Lydden.PNG/250px-House_Lydden.PNG",
+    "seat": "Deep Den",
+    "lord": "Lord Lewys Lydden",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "a white badger on per pale green and brown"
+  },
+  {
+    "name": "House Lynderly",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/66/Lynderly.png/250px-Lynderly.png",
+    "seat": "Snakewood",
+    "lord": "Lord Jon Lynderly",
+    "region": "The Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "A black field strewn with wriggling green serpents"
+  },
+  {
+    "name": "House Magnar",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/63/Magnar.png/250px-Magnar.png",
+    "seat": "Kingshouse",
+    "region": "the North",
+    "overlord": "House Stark",
+    "coatOfArms": "Argent, a lobster vert holding a harpoon sable"
+  },
+  {
+    "name": "House Mallery",
+    "image": "http://awoiaf.westeros.org//images/thumb/d/df/House_Mallery.PNG/250px-House_Mallery.PNG",
+    "region": "Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Purpure, six mullets argent"
+  },
+  {
+    "name": "House Mallister",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e5/House_Mallister.png/250px-House_Mallister.png",
+    "words": "Above the Rest",
+    "seat": "Seagard",
+    "lord": "Jason Mallister",
+    "region": "the Riverlands",
+    "overlord": "House Tully",
+    "coatOfArms": "Purpure, an eagle displayed argent"
+  },
+  {
+    "name": "House Manderly",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/83/House_Manderly.PNG/250px-House_Manderly.PNG",
+    "seat": "New Castle in White Harbor",
+    "lord": "Wyman Manderly",
+    "region": "The North",
+    "overlord": "House Stark",
+    "coatOfArms": "Azure, a merman argent crined and tailed vert bearing a trident sable"
+  },
+  {
+    "name": "House Mandrake",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "words": "unknown",
+    "seat": "unknown",
+    "region": "unknown",
+    "coatOfArms": "unknown"
+  },
+  {
+    "name": "House Manning",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/ef/House_Manning.PNG/250px-House_Manning.PNG",
+    "region": "Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Argent, a sea-lion gules between two endorses sable"
+  },
+  {
+    "name": "House Manwoody",
+    "image": "http://awoiaf.westeros.org//images/thumb/1/15/ManwoodyCoA.png/250px-ManwoodyCoA.png",
+    "seat": "Kingsgrave",
+    "lord": "Dagos Manwoody",
+    "region": "Dorne",
+    "overlord": "House Martell",
+    "coatOfArms": "Sable, a skull argent crowned or."
+  },
+  {
+    "name": "House Marbrand",
+    "image": "http://awoiaf.westeros.org//images/thumb/9/98/Marbrand.png/250px-Marbrand.png",
+    "words": "Burning bright",
+    "seat": "Ashemark",
+    "lord": "Damon Marbrand",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Cendrée, a burning tree proper"
+  },
+  {
+    "name": "House Marsh",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/2c/Marsh.png/250px-Marsh.png",
+    "region": "The North",
+    "overlord": "House Stark",
+    "coatOfArms": "ten frogs vert"
+  },
+  {
+    "name": "House Martell",
+    "image": "http://awoiaf.westeros.org//images/thumb/d/d6/MartellCoA.png/250px-MartellCoA.png",
+    "words": "Unbowed, Unbent, Unbroken",
+    "seat": "Sunspear",
+    "lord": "Prince Doran Martell",
+    "region": "Dorne",
+    "overlord": "House Baratheon of King's Landing",
+    "founder": "Mors Martell & Nymeria of the Rhoynar",
+    "founded": "1000 years ago",
+    "coatOfArms": "Tenny, a sun in splendour gules transfixed by a spear bendwise"
+  },
+  {
+    "name": "House Massey",
+    "image": "http://awoiaf.westeros.org//images/thumb/b/b3/House_Massey.png/250px-House_Massey.png",
+    "seat": "Stonedance",
+    "region": "Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "A triple spiral; red, green and blue, on white"
+  },
+  {
+    "name": "House Meadows",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/f5/Meadows.png/250px-Meadows.png",
+    "seat": "Grassfield Keep in Grassy Vale",
+    "lord": "Elwood Meadows",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "a border of flowers of many colors and varieties on green"
+  },
+  {
+    "name": "House Melcolm",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e9/House_Melcolm.PNG/250px-House_Melcolm.PNG",
+    "seat": "Old Anchor",
+    "region": "the Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "a rusty anchor on turquoise beneath yellow chief with three blue plates"
+  },
+  {
+    "name": "House Merlyn",
+    "image": "http://awoiaf.westeros.org//images/8/86/Merlyn.png",
+    "seat": "Pebbleton",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": "Argent, Twining waterspouts vert"
+  },
+  {
+    "name": "House Merryweather",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5a/House_Merryweather.PNG/250px-House_Merryweather.PNG",
+    "words": "Behold Our Bounty",
+    "seat": "Longtable",
+    "lord": "Orton Merryweather",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "White, a cornucopia spilling foods proper within a bordure"
+  },
+  {
+    "name": "House Mertyns",
+    "image": "http://awoiaf.westeros.org//images/thumb/0/01/House_Mertyns.PNG/250px-House_Mertyns.PNG",
+    "seat": "Mistwood",
+    "lord": "Mary Mertyns",
+    "region": "Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "A white great horned owl on grey"
+  },
+  {
+    "name": "House Middlebury",
+    "image": "http://awoiaf.westeros.org//images/thumb/4/4f/Middlebury.png/250px-Middlebury.png",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Quarterly, a black saltire on yellow, green and white diamonds"
+  },
+  {
+    "name": "House Mollen",
+    "image": "http://awoiaf.westeros.org//images/thumb/4/46/Mollen.png/250px-Mollen.png",
+    "region": "the North",
+    "overlord": "House Stark",
+    "coatOfArms": "White, upon a pile vert a snowy pine tree proper"
+  },
+  {
+    "name": "House Moore",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e9/House_Moore.PNG/250px-House_Moore.PNG",
+    "region": "the Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "Argent, three spearheads bronze prome within a bordure embattled of the same"
+  },
+  {
+    "name": "House Mooton",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/74/House_Mooton.PNG/250px-House_Mooton.PNG",
+    "words": "Wisdom and Strength",
+    "seat": "Maidenpool",
+    "lord": "William Mooton",
+    "region": "Riverlands",
+    "overlord": "House Tully",
+    "coatOfArms": "Argent, a salmon gules within a tressure"
+  },
+  {
+    "name": "House Moreland",
+    "image": "http://awoiaf.westeros.org//images/thumb/9/94/House_Moreland.PNG/250px-House_Moreland.PNG",
+    "lord": "Robin Moreland",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "founder": "Pate the Plowman[1]",
+    "coatOfArms": "per pale barry russet and green"
+  },
+  {
+    "name": "House Mormont",
+    "image": "http://awoiaf.westeros.org//images/thumb/c/c9/House_Mormont.PNG/250px-House_Mormont.PNG",
+    "words": "Here We Stand",
+    "seat": "Bear Island",
+    "lord": "Maege Mormont",
+    "region": "The North",
+    "overlord": "House StarkHouse Baratheon of Dragonstone",
+    "coatOfArms": "A wood vert, a bear sable"
+  },
+  {
+    "name": "House Morrigen",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e5/House_Morrigen.PNG/250px-House_Morrigen.PNG",
+    "seat": "Crow's Nest",
+    "lord": "Lester Morrigen",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon of Dragonstone",
+    "coatOfArms": "Vert, a flying crow sable"
+  },
+  {
+    "name": "House Moss",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/7a/House_Moss.PNG/250px-House_Moss.PNG",
+    "region": "North",
+    "overlord": "House Stark",
+    "coatOfArms": "A bend orange on vairy grey and green"
+  },
+  {
+    "name": "House Mudd",
+    "image": "http://awoiaf.westeros.org//images/thumb/b/b1/MuddCoA.png/250px-MuddCoA.png",
+    "seat": "Oldstones",
+    "region": "Riverlands",
+    "coatOfArms": "Tenné, a crown studded with emeralds proper"
+  },
+  {
+    "name": "House Mullendore",
+    "image": "http://awoiaf.westeros.org//images/thumb/9/94/Mullendore.png/250px-Mullendore.png",
+    "seat": "Uplands",
+    "lord": "Martyn Mullendore",
+    "region": "the Reach",
+    "overlord": "House Hightower",
+    "coatOfArms": "Black-and-orange butterflies on white"
+  },
+  {
+    "name": "House Musgood",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5e/Musgood.png/250px-Musgood.png",
+    "region": "Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Quarterly: A golden pavillion on blue, a green laurel crown on white"
+  },
+  {
+    "name": "House Myatt",
+    "image": "http://awoiaf.westeros.org//images/thumb/9/91/House_Myatt.PNG/250px-House_Myatt.PNG",
+    "region": "Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "spotted treecat, yellow and black on a mud-brown field"
+  },
+  {
+    "name": "House Myre",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/2a/Myre.png/250px-Myre.png",
+    "region": "Iron Islands",
+    "overlord": "House Harlaw",
+    "coatOfArms": "10 nooses, 4-3-2-1, black on white with a border of blood"
+  },
+  {
+    "name": "House Nayland",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Hag's Mire",
+    "region": "the Riverlands",
+    "overlord": "House Frey",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Netley",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Norcross",
+    "image": "http://awoiaf.westeros.org//images/thumb/d/d1/House_Norcross.PNG/250px-House_Norcross.PNG",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Argent, a cross embattled sable"
+  },
+  {
+    "name": "House Norrey",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e8/House_Norrey.PNG/250px-House_Norrey.PNG",
+    "lord": "Brandon Norrey",
+    "region": "The North",
+    "overlord": "House Stark",
+    "coatOfArms": "Or,six thistles slipped vert"
+  },
+  {
+    "name": "House Norridge",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/ff/Norridge.png/250px-Norridge.png",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Azure, six arrows in bend sable heads flaming gules"
+  },
+  {
+    "name": "House Oakheart",
+    "image": "http://awoiaf.westeros.org//images/thumb/0/0f/House_Oakheart.png/250px-House_Oakheart.png",
+    "words": "Our Roots Go Deep",
+    "seat": "Old Oak",
+    "lord": "Lady Arwyn Oakheart",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "three oak leaves vert"
+  },
+  {
+    "name": "House Oldflowers",
+    "image": "http://awoiaf.westeros.org//images/thumb/c/c6/House_Oldflowers.PNG/250px-House_Oldflowers.PNG",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Vert, ten hands couped argent surmounted by a bend sinister gules"
+  },
+  {
+    "name": "House Orkwood",
+    "image": "http://awoiaf.westeros.org//images/thumb/4/49/Orkwood.png/250px-Orkwood.png",
+    "seat": "Orkmont",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": "semy of pines vert"
+  },
+  {
+    "name": "House Orme",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/6c/Orme.png/250px-Orme.png",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Per fess sable and bendy and argent, in chief three harps in fess of the seocnd"
+  },
+  {
+    "name": "House Osgrey",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/fa/House_Osgrey.PNG/250px-House_Osgrey.PNG",
+    "seat": "Standfast",
+    "region": "the Reach",
+    "overlord": "House Rowan",
+    "coatOfArms": "Argent, a lion rampant chequy vert and or"
+  },
+  {
+    "name": "House Osgrey of Leafy Lake",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Extinct (formerly Leafy Lake)",
+    "lord": "Extinct",
+    "region": "the Reach",
+    "overlord": "House Osgrey of Standfast",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Overton",
+    "image": "http://awoiaf.westeros.org//images/thumb/3/3b/House_Overton.PNG/250px-House_Overton.PNG",
+    "region": "North",
+    "overlord": "House Stark",
+    "coatOfArms": "Sable, a fess chequy argent and"
+  },
+  {
+    "name": "House Paege",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/78/House_Paege.png/250px-House_Paege.png",
+    "lord": "Ser Halmon Paege",
+    "region": "the Riverlands",
+    "overlord": "House Baelish of Harrenhal",
+    "coatOfArms": "Sable, a serpent palewise argent entwined with another gules"
+  },
+  {
+    "name": "House Parren",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e1/House_Parren.PNG/250px-House_Parren.PNG",
+    "lord": "Extinct",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Per saltire, the first barry gules and argent, the second a lion's head erased sable"
+  },
+  {
+    "name": "House Payne",
+    "image": "http://awoiaf.westeros.org//images/thumb/b/bb/House_Payne.png/250px-House_Payne.png",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Chequy purpure and argent, each check charged with a bezant"
+  },
+  {
+    "name": "House Peake",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/f1/House_Peake.PNG/250px-House_Peake.PNG",
+    "seat": "Starpike",
+    "lord": "Titus Peake",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Tenny, three castles sable"
+  },
+  {
+    "name": "House Peasebury",
+    "image": "http://awoiaf.westeros.org//images/thumb/c/ce/Peasebury.png/250px-Peasebury.png",
+    "seat": "Poddingfield",
+    "lord": "Robin Peasebury",
+    "region": "Stormlands",
+    "overlord": "House Baratheon of Dragonstone",
+    "coatOfArms": "Argent, a pea pod open within a bordure of peas vert"
+  },
+  {
+    "name": "House Peat",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "The Neck",
+    "overlord": "House Reed",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Peckledon",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e9/House_Peckledon.PNG/250px-House_Peckledon.PNG",
+    "words": "Unflinching",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "ten mullets purpure"
+  },
+  {
+    "name": "House Penrose",
+    "image": "http://awoiaf.westeros.org//images/thumb/1/1b/House_Penrose.PNG/250px-House_Penrose.PNG",
+    "words": "Set Down Our Deeds",
+    "seat": "Parchments",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Tenné, two quills saltireways argent"
+  },
+  {
+    "name": "House Perryn",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "Riverlands",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Piper",
+    "image": "http://awoiaf.westeros.org//images/thumb/3/30/House_Piper.png/250px-House_Piper.png",
+    "words": "Brave and Beautiful",
+    "seat": "Pinkmaiden Castle",
+    "lord": "Clement Piper",
+    "region": "the Riverlands",
+    "overlord": "House Tully",
+    "coatOfArms": "Azure, a maiden dancing proper enwrapped with silk argent"
+  },
+  {
+    "name": "House Plumm",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/7e/House_Plumm.PNG/250px-House_Plumm.PNG",
+    "words": "Come Try Me",
+    "lord": "Philip Plumm",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "three golpes"
+  },
+  {
+    "name": "House Pommingham",
+    "image": "http://awoiaf.westeros.org//images/thumb/1/15/Pommingham.png/250px-Pommingham.png",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "A red pomegranate on white, a double tressure red"
+  },
+  {
+    "name": "House Poole",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/eb/HousePoole.png/250px-HousePoole.png",
+    "region": "the North",
+    "overlord": "House Stark",
+    "coatOfArms": "White, a roundel azure, a tressure cendrée"
+  },
+  {
+    "name": "House Potter",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Prester",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e8/House_Prester.PNG/250px-House_Prester.PNG",
+    "words": "Tireless",
+    "seat": "Feastfires",
+    "lord": "Lord Garrison Prester",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "A red ox on ermine"
+  },
+  {
+    "name": "House Pryor",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/24/Pryor.PNG/250px-Pryor.PNG",
+    "seat": "Pebble",
+    "region": "Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "A partial eclipse, black moon over yellow sun, on dusty pink"
+  },
+  {
+    "name": "House Pyle",
+    "image": "http://awoiaf.westeros.org//images/thumb/d/d4/House_Pyle.PNG/250px-House_Pyle.PNG",
+    "region": "Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "A grey iron greathelm on white"
+  },
+  {
+    "name": "House Pyne",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Qoherys",
+    "image": "http://awoiaf.westeros.org//images/thumb/4/40/Qoherys.png/250px-Qoherys.png",
+    "seat": "Harrenhal",
+    "lord": "Extinct",
+    "region": "Riverlands",
+    "overlord": "House Tully",
+    "founded": "circa 1AC",
+    "coatOfArms": "Sable, a saltire flambant gules between four skulls argent"
+  },
+  {
+    "name": "House Qorgyle",
+    "image": "http://awoiaf.westeros.org//images/thumb/a/ad/QorgyleCoA.png/251px-QorgyleCoA.png",
+    "seat": "Sandstone",
+    "lord": "Quentyn Qorgyle",
+    "region": "Dorne",
+    "overlord": "House Martell",
+    "coatOfArms": "Gules, three scorpions sable."
+  },
+  {
+    "name": "House Quagg",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "The Neck",
+    "overlord": "House Reed",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Rambton",
+    "image": "http://awoiaf.westeros.org//images/thumb/1/1c/House_Rambton.PNG/250px-House_Rambton.PNG",
+    "region": "the Crownlands",
+    "overlord": "House Sunglass",
+    "coatOfArms": "Gules, a ram's head cabossed argent attired or"
+  },
+  {
+    "name": "House Redbeard",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "lord": "Gerrick Kingsblood",
+    "region": "the Wall",
+    "overlord": "House Baratheon of Dragonstone",
+    "founder": "Gerrick Kingsblood",
+    "founded": "300AC",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Redding",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/83/Redding.png/250px-Redding.png",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Gules, a flagon within a bordure chequy and argent"
+  },
+  {
+    "name": "House Redfort",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e0/House_Redfort.png/250px-House_Redfort.png",
+    "words": "As Strong as Stone",
+    "seat": "Redfort",
+    "lord": "Horton Redfort",
+    "region": "the Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "Argent, a castle gules within a bordure embattled of the same"
+  },
+  {
+    "name": "House Redwyne",
+    "image": "http://awoiaf.westeros.org//images/thumb/b/b1/House_Redwyne2.png/250px-House_Redwyne2.png",
+    "seat": "The Arbor",
+    "lord": "Paxter Redwyne",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Azure, a grape cluster proper"
+  },
+  {
+    "name": "House Reed",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/53/Reed_coat_of_arms.png/250px-Reed_coat_of_arms.png",
+    "seat": "Greywater Watch",
+    "lord": "Howland Reed",
+    "region": "The Neck",
+    "overlord": "House Stark",
+    "coatOfArms": "Vert, a lizard-lion sable"
+  },
+  {
+    "name": "House Reyne",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/7a/House_Reyne.PNG/250px-House_Reyne.PNG",
+    "seat": "Castamere",
+    "region": "The Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Argent, a lion rampant regardant queue fourché gules, armed and langued or"
+  },
+  {
+    "name": "House Rhysling",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/f5/Rhysling.png/250px-Rhysling.png",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "An oaken door banded with iron, in a grey stone doorway, on black masonry"
+  },
+  {
+    "name": "House Risley",
+    "image": "http://awoiaf.westeros.org//images/thumb/a/a3/House_Risley.PNG/250px-House_Risley.PNG",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "A black knight on a black rearing horse on white, bearing a golden lance and a white shield, upon which is seen the above in miniature"
+  },
+  {
+    "name": "House Rogers",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/67/House_Rogers.png/250px-House_Rogers.png",
+    "seat": "Amberly",
+    "region": "Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Nine unicorns around a maze, silver on black"
+  },
+  {
+    "name": "House Rollingford",
+    "image": "http://awoiaf.westeros.org//images/thumb/3/39/House_Rollingford.PNG/250px-House_Rollingford.PNG",
+    "region": "Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Six roundels fountain, 3-2-1, on grey"
+  },
+  {
+    "name": "House Roote",
+    "image": "http://awoiaf.westeros.org//images/thumb/d/d1/Roote.png/250px-Roote.png",
+    "seat": "Lord Harroway's Town",
+    "region": "the Riverlands",
+    "overlord": "House Tully",
+    "coatOfArms": "Wavy vert and vert, a two headed headed horse tenné"
+  },
+  {
+    "name": "House Rosby",
+    "image": "http://awoiaf.westeros.org//images/thumb/3/3f/House_Rosby.PNG/250px-House_Rosby.PNG",
+    "seat": "Rosby",
+    "lord": "Gyles Rosby",
+    "region": "the Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Ermine, three chevronels gules"
+  },
+  {
+    "name": "House Rowan",
+    "image": "http://awoiaf.westeros.org//images/thumb/d/dc/House_Rowan.PNG/250px-House_Rowan.PNG",
+    "seat": "Goldengrove",
+    "lord": "Mathis Rowan",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Argent, a tree eradicated or"
+  },
+  {
+    "name": "House Roxton",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/ef/Roxton.png/250px-Roxton.png",
+    "seat": "Ring",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Bleu celeste, per saltire a chain of rings"
+  },
+  {
+    "name": "House Royce",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/ed/Royce.png/250px-Royce.png",
+    "words": "We Remember",
+    "seat": "Runestone",
+    "lord": "Yohn Royce",
+    "region": "the Vale",
+    "overlord": "House Arryn",
+    "founded": "Age of Heroes",
+    "coatOfArms": "Tenny pelletty, an orle of runes sable"
+  },
+  {
+    "name": "House Royce of the Gates of the Moon",
+    "image": "http://awoiaf.westeros.org//images/thumb/c/cf/House_Royce_of_the_Gates_of_the_Moon.png/250px-House_Royce_of_the_Gates_of_the_Moon.png",
+    "seat": "Gates of the Moon",
+    "lord": "Nestor Royce",
+    "region": "the Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "Purpure, an increscent argent surmounted by a portcullis sable within a borbure tenny charged with runes of the third"
+  },
+  {
+    "name": "House Ruthermont",
+    "image": "http://awoiaf.westeros.org//images/thumb/0/01/Ruthermont.png/250px-Ruthermont.png",
+    "region": "Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "Five black starfish on a gold pale, on pean"
+  },
+  {
+    "name": "House Ruttiger",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5a/House_Ruttiger.PNG/250px-House_Ruttiger.PNG",
+    "lord": "Ser Raynard Ruttiger",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Sable a bend tennée engrailed"
+  },
+  {
+    "name": "House Ryger",
+    "image": "http://awoiaf.westeros.org//images/thumb/4/47/RygerCoA.png/250px-RygerCoA.png",
+    "seat": "Willow Wood",
+    "region": "the Riverlands",
+    "overlord": "House Tully",
+    "coatOfArms": "White, a weeping willow vert"
+  },
+  {
+    "name": "House Rykker",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/f5/House_Rykker.PNG/250px-House_Rykker.PNG",
+    "seat": "Duskendale",
+    "lord": "Renfred Rykker",
+    "region": "the Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Azure, a cross saltire argent charged with two crossed warhammers sable"
+  },
+  {
+    "name": "House Ryswell",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/7f/House_Ryswell.PNG/250px-House_Ryswell.PNG",
+    "lord": "Rodrik Ryswell",
+    "region": "the North",
+    "overlord": "House Stark",
+    "coatOfArms": "Bronze, a horse's head sable orbed and maned gules within a bordure engrailed sable"
+  },
+  {
+    "name": "House Saltcliffe",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/27/Saltcliffe.png/250px-Saltcliffe.png",
+    "seat": "Saltcliffe",
+    "lord": "Donnor Saltcliffe",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": "Argent, a serpent nine-headed sable"
+  },
+  {
+    "name": "House Santagar",
+    "image": "http://awoiaf.westeros.org//images/thumb/0/0c/SantagarCoA.png/250px-SantagarCoA.png",
+    "seat": "Spottswood",
+    "lord": "Ser Symon Santagar",
+    "region": "Dorne",
+    "overlord": "House Martell",
+    "coatOfArms": "Per bend sinister azure and argent, a leopard rampant spotted sable bearing an axe of the third"
+  },
+  {
+    "name": "House Sarsfield",
+    "image": "http://awoiaf.westeros.org//images/thumb/3/3b/House_Sarsfield.PNG/250px-House_Sarsfield.PNG",
+    "words": "True to the Mark",
+    "seat": "Sarsfield",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Vert, on a bend argent an arrow of the first"
+  },
+  {
+    "name": "House Sawyer",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Seaworth",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/69/Seaworth_sigil_coat.png/270px-Seaworth_sigil_coat.png",
+    "lord": "Lord Davos Seaworth",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon of Dragonstone",
+    "founder": "Davos Seaworth",
+    "founded": "284AC",
+    "coatOfArms": "Cendrée, a galley sable its sail charged with an onion argent"
+  },
+  {
+    "name": "House Selmy",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/61/Selmy.png/250px-Selmy.png",
+    "seat": "Harvest Hall",
+    "lord": "Arstan Selmy",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Tenné, three stalks of wheat proper fesswise"
+  },
+  {
+    "name": "House Serrett",
+    "image": "http://awoiaf.westeros.org//images/thumb/3/3e/House_Serrett.PNG/250px-House_Serrett.PNG",
+    "words": "I Have No Rival",
+    "seat": "Silverhill",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Argent, a peacock in his pride proper"
+  },
+  {
+    "name": "House Serry",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/ed/House_Serry.PNG/250px-House_Serry.PNG",
+    "seat": "Southshield",
+    "lord": "Lord Osbert Serry",
+    "region": "the Shield Islands, the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Argent, an escutcheon gules charged with a rose of the first all within a bordure embattled of the second"
+  },
+  {
+    "name": "House Sharp",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Shawney",
+    "image": "http://awoiaf.westeros.org//images/thumb/b/bf/Shawney.png/250px-Shawney.png",
+    "region": "the Riverlands",
+    "overlord": "House Tully",
+    "coatOfArms": "Per fess, the first tierced in pale azure, gules and vert, the second sable, a catfish argent"
+  },
+  {
+    "name": "House Shepherd",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "Iron Islands[1]",
+    "overlord": "House Greyjoy",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Shermer",
+    "image": "http://awoiaf.westeros.org//images/thumb/c/ca/Shermer.png/250px-Shermer.png",
+    "seat": "Smithyton",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "a field of copper nails on blue, a copper border rayonne"
+  },
+  {
+    "name": "House Shett",
+    "image": "http://awoiaf.westeros.org//images/thumb/4/40/House_Shett.png/250px-House_Shett.png",
+    "seat": "Gull Tower",
+    "lord": "Damon Shett",
+    "region": "Vale",
+    "overlord": "House Royce",
+    "coatOfArms": "Three golden wings, bendwise, on checkered white and black"
+  },
+  {
+    "name": "House Slate",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/82/House_Slate.PNG/250px-House_Slate.PNG",
+    "region": "North",
+    "overlord": "House Stark",
+    "coatOfArms": "Pale grey, a double tressure white"
+  },
+  {
+    "name": "House Sloane",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/70/Sloane.png/250px-Sloane.png",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Per pale, white stars strewn on indigo, an orange sun on yellow"
+  },
+  {
+    "name": "House Slynt",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/ea/House_Slynt.PNG/250px-House_Slynt.PNG",
+    "seat": "None, formerly Harrenhal",
+    "lord": "Lord Morros Slynt",
+    "region": "None",
+    "overlord": "House Baratheon of King's Landing",
+    "founder": "Lord Janos Slynt",
+    "founded": "298AC",
+    "coatOfArms": "Sable, a bloody spear tipped gules"
+  },
+  {
+    "name": "House Smallwood",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/f2/Smallwood.png/250px-Smallwood.png",
+    "words": "From These Beginnings",
+    "seat": "Acorn Hall",
+    "lord": "Theomar Smallwood",
+    "region": "the Riverlands",
+    "overlord": "House Vance of Wayfarer's Rest",
+    "coatOfArms": "six acorns brunâtre"
+  },
+  {
+    "name": "House Sparr",
+    "image": "http://awoiaf.westeros.org//images/thumb/3/3d/House_Sparr.PNG/250px-House_Sparr.PNG",
+    "seat": "Great Wyk",
+    "lord": "The Sparr",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": "an oak saltire on blue"
+  },
+  {
+    "name": "House Spicer",
+    "image": "http://awoiaf.westeros.org//images/thumb/d/d7/House_Spicer.PNG/250px-House_Spicer.PNG",
+    "seat": "Castamere",
+    "lord": "Rolph Spicer",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Paly vert and argent, three pepperpots sable on a bend"
+  },
+  {
+    "name": "House Stackhouse",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Stackspear",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/2b/House_Stackspear.PNG/250px-House_Stackspear.PNG",
+    "lord": "Selmond Stackspear",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "two crossed black spears on checkered silver and gold"
+  },
+  {
+    "name": "House Staedmon",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/2c/House_Steadmon.PNG/250px-House_Steadmon.PNG",
+    "seat": "Broad Arch",
+    "lord": "Alesander Staedmon",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Argent goutty de sang, a heart gules transfixed by a dagger sable, all within a bordure wavy gules"
+  },
+  {
+    "name": "House Stane",
+    "image": "http://awoiaf.westeros.org//images/thumb/a/a8/Stane.png/250px-Stane.png",
+    "seat": "Driftwood Hall",
+    "region": "North",
+    "overlord": "House Stark",
+    "coatOfArms": "A driftwood tree, bare and brown, on pale green"
+  },
+  {
+    "name": "House Stark",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/51/House_Stark.PNG/250px-House_Stark.PNG",
+    "words": "Winter is Coming",
+    "seat": "Winterfell",
+    "lord": "Eddard Stark",
+    "region": "The North",
+    "overlord": "House Baratheon of King's Landing",
+    "founder": "Bran the Builder",
+    "founded": "Age of Heroes",
+    "coatOfArms": "Argent, a direwolf courant proper"
+  },
+  {
+    "name": "House Staunton",
+    "image": "http://awoiaf.westeros.org//images/thumb/a/aa/House_Staunton.PNG/250px-House_Staunton.PNG",
+    "seat": "Rook's Rest",
+    "region": "the Crownlands",
+    "overlord": "House Baratheon of Dragonstone",
+    "coatOfArms": "two black wings upon a white fess on checkered black and grey"
+  },
+  {
+    "name": "House Stokeworth",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/8f/Stokeworth.png/250px-Stokeworth.png",
+    "words": "Proud to be Faithful",
+    "seat": "Stokeworth",
+    "lord": "Lady Lollys Stokeworth",
+    "region": "the Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Vert, a lamb couchant argent holding a goblet or"
+  },
+  {
+    "name": "House Stonehouse",
+    "image": "http://awoiaf.westeros.org//images/thumb/9/9f/Stonehouse.png/250px-Stonehouse.png",
+    "seat": "Old Wyk",
+    "lord": "The Stonehouse",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": "a black brazier on a grey masonry field"
+  },
+  {
+    "name": "House Stonetree",
+    "image": "http://awoiaf.westeros.org//images/thumb/9/9b/Stonetree.png/250px-Stonetree.png",
+    "region": "Iron IslandsHarlaw",
+    "overlord": "House Harlaw",
+    "coatOfArms": "A bare stone tree, grey on black"
+  },
+  {
+    "name": "House Stout",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/55/House_Stout.PNG/250px-House_Stout.PNG",
+    "seat": "Goldgrass",
+    "lord": "Harwood Stout",
+    "region": "the North",
+    "overlord": "House Dustin",
+    "coatOfArms": "Chevronny tenné and"
+  },
+  {
+    "name": "House Strickland",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "lord": "Harry Strickland",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Strong",
+    "image": "http://awoiaf.westeros.org//images/thumb/3/35/House_Strong.PNG/250px-House_Strong.PNG",
+    "seat": "Harrenhal",
+    "lord": "Extinct",
+    "region": "the Riverlands",
+    "overlord": "House Tully",
+    "coatOfArms": "White, three pallets azure, gules and vert"
+  },
+  {
+    "name": "House Sunderland",
+    "image": "http://awoiaf.westeros.org//images/thumb/4/45/Sunderland.png/250px-Sunderland.png",
+    "seat": "Sisterton",
+    "lord": "Triston Sunderland",
+    "region": "the Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "three women's heads, white with black hair, on barry wavy blue and green"
+  },
+  {
+    "name": "House Sunderly",
+    "image": "http://awoiaf.westeros.org//images/3/34/House_Sunderly.png",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": "A drowned man, pink and pale, floating upright in a blue-green sea"
+  },
+  {
+    "name": "House Sunglass",
+    "image": "http://awoiaf.westeros.org//images/thumb/a/a6/Sunglass.png/250px-Sunglass.png",
+    "seat": "Sweetport Sound",
+    "lord": "Lord Sunglass",
+    "region": "Dragonstone",
+    "overlord": "House Baratheon of Dragonstone",
+    "coatOfArms": "Argent, seven mullets of seven points or"
+  },
+  {
+    "name": "House Swann",
+    "image": "http://awoiaf.westeros.org//images/thumb/a/a9/House_Swann.PNG/250px-House_Swann.PNG",
+    "seat": "Stonehelm",
+    "lord": "Gulian Swann",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Party per pale argent and sable, two swans combatant countercharged"
+  },
+  {
+    "name": "House Swyft",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/68/House_Swyft.PNG/250px-House_Swyft.PNG",
+    "words": "Awake! Awake!",
+    "seat": "Cornfield",
+    "lord": "Ser Harys Swyft",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "a rooster trussed azure beaked, footed and crested gules"
+  },
+  {
+    "name": "House Swygert",
+    "image": "http://awoiaf.westeros.org//images/a/a2/Swygert.png",
+    "words": "Truth Conquers",
+    "region": "Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Purpure a scroll argent knobbed within a tressure of the second"
+  },
+  {
+    "name": "House Tallhart",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/fe/House_Tallhart.PNG/250px-House_Tallhart.PNG",
+    "words": "Proud and Free",
+    "seat": "Torrhen's Square",
+    "lord": "Eddara Tallhart",
+    "region": "the North",
+    "overlord": "House Stark",
+    "coatOfArms": "Tenny, three sentinel trees vert"
+  },
+  {
+    "name": "House Tarbeck",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/52/House_Tarbeck.PNG/250px-House_Tarbeck.PNG",
+    "seat": "Tarbeck Hall",
+    "lord": "Extinct",
+    "region": "The Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Gyronny argent and azure, a star of seven points counterchanged"
+  },
+  {
+    "name": "House Targaryen",
+    "image": "http://awoiaf.westeros.org//images/thumb/4/43/House_Targaryen.PNG/250px-House_Targaryen.PNG",
+    "words": "Fire and Blood",
+    "seat": "Red Keep (formerly)Dragonstone (formerly)Summerhall (formerly)",
+    "lord": "Queen Daenerys Targaryen",
+    "region": "The Crownlands, Valyria (formerly)",
+    "overlord": "None",
+    "founded": "House Targaryen: >114BCHouse Targaryen of King's Landing:1AC",
+    "coatOfArms": "Sable, a dragon thrice-headed gules"
+  },
+  {
+    "name": "House Tarly",
+    "image": "http://awoiaf.westeros.org//images/thumb/d/d8/Tarly.png/250px-Tarly.png",
+    "words": "First in Battle",
+    "seat": "Horn Hill",
+    "lord": "Randyll Tarly",
+    "region": "The Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Vert, a huntsman striding to dexter proper garbed gules"
+  },
+  {
+    "name": "House Tarth",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/f3/House_Tarth.PNG/250px-House_Tarth.PNG",
+    "seat": "Evenfall Hall",
+    "lord": "Selwyn Tarth",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Gules, a sun in splendour quartered with azure, an increscent argent"
+  },
+  {
+    "name": "House Tawney",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e0/Tawney.png/250px-Tawney.png",
+    "seat": "Orkmont",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": "A scourge of nettles, red and black, on white"
+  },
+  {
+    "name": "House Teague",
+    "image": "http://awoiaf.westeros.org//images/thumb/4/42/House_Teague.PNG/250px-House_Teague.PNG",
+    "region": "Riverlands",
+    "coatOfArms": "Sable, a trident between two flaunches"
+  },
+  {
+    "name": "House Templeton",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/52/House_Templeton.png/250px-House_Templeton.png",
+    "seat": "Ninestars",
+    "lord": "Ser Symond Templeton",
+    "overlord": "House Arryn",
+    "coatOfArms": "Sable, a saltire charged with nine stars of the first, that in the centre of seven points, the rest of six points"
+  },
+  {
+    "name": "House Terrick",
+    "image": "http://awoiaf.westeros.org//images/thumb/0/0b/House_Terrick.PNG/250px-House_Terrick.PNG",
+    "region": "Riverlands",
+    "coatOfArms": "Per saltire purpure and four hawks' heads countercharged"
+  },
+  {
+    "name": "House Thenn",
+    "image": "http://awoiaf.westeros.org//images/thumb/a/a4/HouseThenn.png/250px-HouseThenn.png",
+    "lord": "Sigorn",
+    "region": "the North",
+    "founder": "Sigorn",
+    "founded": "300AC",
+    "coatOfArms": "Argent, a sun in splendour gules"
+  },
+  {
+    "name": "House Thorne",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/24/Thorne.png/250px-Thorne.png",
+    "region": "the Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Gules, a flail argent within an bordure rayonne sable"
+  },
+  {
+    "name": "House Toland",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/8d/TolandCoA.png/250px-TolandCoA.png",
+    "seat": "Ghost Hill",
+    "lord": "Lady Nymella Toland",
+    "region": "Dorne",
+    "overlord": "House Martell",
+    "coatOfArms": "a dragon biting its tail vert"
+  },
+  {
+    "name": "House Tollett",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/89/House_Tollett.PNG/250px-House_Tollett.PNG",
+    "words": "When All is Darkest",
+    "seat": "Grey Glen",
+    "lord": "Lord Uthor Tollett",
+    "region": "The Vale",
+    "overlord": "House Royce",
+    "coatOfArms": "Pily cendrée and sable"
+  },
+  {
+    "name": "House Torrent",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Littlesister",
+    "lord": "Alesandor Torrent",
+    "region": "Vale",
+    "overlord": "House Sunderland",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Towers",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/77/House_Towers.PNG/250px-House_Towers.PNG",
+    "seat": "Harrenhal",
+    "lord": "Extinct",
+    "region": "Riverlands",
+    "overlord": "House Tully",
+    "coatOfArms": "White, five towers sable within a double tressure gules and sable"
+  },
+  {
+    "name": "House Toyne",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/House_Toyne.PNG/250px-House_Toyne.PNG",
+    "words": "Fly High, Fly Far",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "a winged heart, black on gold, within a black bordure embattled"
+  },
+  {
+    "name": "House Trant",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5d/House_Trant.png/250px-House_Trant.png",
+    "words": "So End Our Foes",
+    "seat": "Gallowsgrey",
+    "region": "The Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Azure, a hanged man sable"
+  },
+  {
+    "name": "House Tudbury",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/82/House_Tudbury.png/250px-House_Tudbury.png",
+    "region": "Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Vert, a lozenge charged with a tortoise tenny"
+  },
+  {
+    "name": "House Tully",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/23/House_Tully.PNG/250px-House_Tully.PNG",
+    "words": "Family, Duty, Honor",
+    "seat": "Riverrun",
+    "lord": "Hoster Tully",
+    "region": "the Riverlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Paly wavy gules and azure, a trout embowed white."
+  },
+  {
+    "name": "House Turnberry",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/ff/Turnberry.png/250px-Turnberry.png",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "nine strawberries on a white saltire, on green and red vairy in point"
+  },
+  {
+    "name": "House Tyrell",
+    "image": "http://awoiaf.westeros.org//images/thumb/9/99/House_Tyrell.PNG/250px-House_Tyrell.PNG",
+    "words": "Growing Strong",
+    "seat": "Highgarden",
+    "lord": "Mace Tyrell",
+    "region": "The Reach",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "Vert, a rose"
+  },
+  {
+    "name": "House Tyrell of Brightwater Keep",
+    "image": "http://awoiaf.westeros.org//images/thumb/9/9c/Garlan_Tyrell_COA.png/250px-Garlan_Tyrell_COA.png",
+    "seat": "Brightwater Keep (disputed by House Florent)",
+    "lord": "Garlan Tyrell",
+    "region": "The Reach",
+    "overlord": "House Tyrell of Highgarden",
+    "founder": "Lord Garlan Tyrell",
+    "founded": "299AC",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Uffering",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/83/House_Uffering.PNG/250px-House_Uffering.PNG",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Paly tenné and cendrée, upon a chief argent seven hands couped vert"
+  },
+  {
+    "name": "House Uller",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/fe/UllerCoA.png/250px-UllerCoA.png",
+    "seat": "Hellholt",
+    "lord": "Lord Harmen Uller",
+    "region": "Dorne",
+    "overlord": "House Martell",
+    "coatOfArms": "per fess rayonny and gules"
+  },
+  {
+    "name": "House Umber",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/f2/Umbercrest.png/250px-Umbercrest.png",
+    "seat": "Last Hearth",
+    "lord": "Greatjon Umber",
+    "region": "The North",
+    "overlord": "House Stark",
+    "coatOfArms": "Gules, a roaring giant proper with shattered chains argent"
+  },
+  {
+    "name": "House Upcliff",
+    "image": "http://awoiaf.westeros.org//images/thumb/8/8c/Upcliff.png/250px-Upcliff.png",
+    "region": "Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "Sable, a wave cresting proper"
+  },
+  {
+    "name": "House Vaith",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/66/VaithCoA.png/250px-VaithCoA.png",
+    "seat": "Vaith",
+    "lord": "Daeron Vaith",
+    "region": "Dorne",
+    "overlord": "House Martell",
+    "coatOfArms": "Tenny, on a pile three leopards statant sable"
+  },
+  {
+    "name": "House Vance of Atranta",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/69/House_Vance_of_Artranta.PNG/250px-House_Vance_of_Artranta.PNG",
+    "seat": "Atranta",
+    "lord": "Norbert Vance",
+    "region": "The Riverlands",
+    "overlord": "House Tully",
+    "coatOfArms": "Argent, a dragon vert quartered with sable, a tower of the first"
+  },
+  {
+    "name": "House Vance of Wayfarer's Rest",
+    "image": "http://awoiaf.westeros.org//images/thumb/0/01/House_Vance_of_Wayfarer%27s_rest.PNG/250px-House_Vance_of_Wayfarer%27s_rest.PNG",
+    "seat": "Wayfarer's Rest",
+    "lord": "Karyl Vance",
+    "region": "The Riverlands",
+    "overlord": "House Tully",
+    "coatOfArms": "Quarterly, first and fourth argent, a dragon sable; second and third a pair of eyes within an annulet or"
+  },
+  {
+    "name": "House Varner",
+    "image": "http://awoiaf.westeros.org//images/thumb/3/33/House_Varner.PNG/250px-House_Varner.PNG",
+    "lord": "Steffon Varner",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Ermines, a weasel argent"
+  },
+  {
+    "name": "House Velaryon",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/f3/House_Velaryon.PNG/250px-House_Velaryon.PNG",
+    "words": "The Old, the True, the Brave",
+    "seat": "High Tide",
+    "lord": "Monterys Velaryon",
+    "region": "Crownlands, Blackwater Bay",
+    "overlord": "House Baratheon of Dragonstone",
+    "founded": "prior to 114BC",
+    "coatOfArms": "Azure, a seahorse rampant argent"
+  },
+  {
+    "name": "House Vikary",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/House_Vikary.PNG/250px-House_Vikary.PNG",
+    "lord": "Ser Lymond Vikary",
+    "region": "The Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Argent, a boar's head gules quartered with gules, a lion rampant reguardant tail forked argent debruised by a bend sinister"
+  },
+  {
+    "name": "House Volmark",
+    "image": "http://awoiaf.westeros.org//images/1/17/House_Volmark.png",
+    "seat": "Volmark",
+    "lord": "Lord Maron Volmark",
+    "region": "Iron IslandsThe Reach",
+    "overlord": "House Harlaw",
+    "coatOfArms": "Cendrée, a leviathan sable"
+  },
+  {
+    "name": "House Vypren",
+    "image": "http://awoiaf.westeros.org//images/thumb/b/b5/Vyprin.png/250px-Vyprin.png",
+    "lord": "Lucias Vypren",
+    "overlord": "House Tully",
+    "coatOfArms": "Vert, a toad sable on a lilypad white"
+  },
+  {
+    "name": "House Vyrwel",
+    "image": "http://awoiaf.westeros.org//images/thumb/c/cd/House_Vyrwel.PNG/250px-House_Vyrwel.PNG",
+    "seat": "Darkdell",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "a silver wyvern within a red double tressure on sable"
+  },
+  {
+    "name": "House Wagstaff",
+    "image": "http://awoiaf.westeros.org//images/thumb/9/95/Wagstaff.png/250px-Wagstaff.png",
+    "region": "Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Vert, five mascles in fess"
+  },
+  {
+    "name": "House Waterman",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/53/House_Waterman.PNG/250px-House_Waterman.PNG",
+    "region": "North",
+    "overlord": "House Stark",
+    "coatOfArms": "Argent, two oars saltirewise tenny between as many flaunces azure"
+  },
+  {
+    "name": "House Waxley",
+    "image": "http://awoiaf.westeros.org//images/thumb/d/dc/Waxley_large.png/250px-Waxley_large.png",
+    "words": "Light in Darkness",
+    "seat": "Wickenden",
+    "lord": "Ser Edmund Waxley",
+    "region": "The Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "Cendrée, three candles argent flamed gules within a bordure sable"
+  },
+  {
+    "name": "House Wayn",
+    "image": "http://awoiaf.westeros.org//images/thumb/d/df/House_Wayn.PNG/250px-House_Wayn.PNG",
+    "region": "the Riverlands",
+    "overlord": "House Tully",
+    "coatOfArms": "Quarterly azure and argent, four wheels counterchanged"
+  },
+  {
+    "name": "House Waynwood",
+    "image": "http://awoiaf.westeros.org//images/thumb/b/b6/House_Waynwood.PNG/250px-House_Waynwood.PNG",
+    "seat": "Ironoaks",
+    "lord": "Lady Anya Waynwood",
+    "region": "The Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "Vert, a wheel broken sable"
+  },
+  {
+    "name": "House Weaver",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "Iron Islands",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Webber",
+    "image": "http://awoiaf.westeros.org//images/thumb/c/c1/House_Webber.PNG/250px-House_Webber.PNG",
+    "seat": "Coldmoat",
+    "region": "the Reach",
+    "overlord": "House Rowan",
+    "coatOfArms": "Sable, a cobweb argent thereon a spider gules"
+  },
+  {
+    "name": "House Wells (Dorne)",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "Dorne",
+    "overlord": "House Martell",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Wells (the North)",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/fe/Wells.png/250px-Wells.png",
+    "region": "North",
+    "overlord": "House Stark",
+    "coatOfArms": "Per fess cendrée and lozengy argent and vert, in chief five pellets"
+  },
+  {
+    "name": "House Wendwater",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/22/House_Wendwater.PNG/250px-House_Wendwater.PNG",
+    "words": "For All Seasons",
+    "region": "Crownlands",
+    "overlord": "House Baratheon of King's Landing",
+    "coatOfArms": "A green engrailed pall, inverted on white, dividing three trees, green, red and bare"
+  },
+  {
+    "name": "House Wensington",
+    "image": "http://awoiaf.westeros.org//images/thumb/1/1d/House_Wensington.PNG/250px-House_Wensington.PNG",
+    "words": "Sound The Charge",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "Two golden trumpets crossed on blue, a gold chief with three black stags"
+  },
+  {
+    "name": "House Westbrook",
+    "image": "http://awoiaf.westeros.org//images/thumb/7/7b/House_Westbrook.PNG/250px-House_Westbrook.PNG",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Two green bars gemmel on gold"
+  },
+  {
+    "name": "House Westerling",
+    "image": "http://awoiaf.westeros.org//images/thumb/d/df/House_Westerling.PNG/250px-House_Westerling.PNG",
+    "words": "Honor, Not Honors",
+    "seat": "the Crag",
+    "lord": "Gawen Westerling",
+    "region": "the Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "six escallops argent"
+  },
+  {
+    "name": "House Whent",
+    "image": "http://awoiaf.westeros.org//images/thumb/6/6d/House_Whent.png/250px-House_Whent.png",
+    "seat": "Harrenhal",
+    "lord": "Lady Shella Whent",
+    "region": "The Riverlands",
+    "overlord": "House Tully",
+    "coatOfArms": "nine bats displayed sable"
+  },
+  {
+    "name": "House Whitehill",
+    "image": "http://awoiaf.westeros.org//images/thumb/b/bf/Whitehill.png/250px-Whitehill.png",
+    "region": "North",
+    "overlord": "House Stark",
+    "coatOfArms": "A white pile inverted on indigo, an arch of 4-pointed stars above"
+  },
+  {
+    "name": "House Willum",
+    "image": "http://awoiaf.westeros.org//images/thumb/d/d7/Willum.png/250px-Willum.png",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "three silver longswords crossed on black beneath a dragonbone skeleton on a white chief"
+  },
+  {
+    "name": "House Wode",
+    "image": "http://awoiaf.westeros.org//images/thumb/0/06/House_Wode.PNG/250px-House_Wode.PNG",
+    "words": "Touch Me Not",
+    "region": "Riverlands",
+    "overlord": "House Baelish of Harrenhal",
+    "coatOfArms": "three hedgehogs white"
+  },
+  {
+    "name": "House Woodfoot",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "seat": "Bear Island",
+    "lord": "Extinct",
+    "region": "the North",
+    "overlord": "House Stark",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Woods",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/5c/Coats_of_arms_of_None.png/200px-Coats_of_arms_of_None.png",
+    "region": "The North",
+    "overlord": "House Glover",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Woodwright",
+    "image": "http://awoiaf.westeros.org//images/thumb/c/ce/Woodright.png/250px-Woodright.png",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "A red pall on a field of oak"
+  },
+  {
+    "name": "House Woolfield",
+    "image": "http://awoiaf.westeros.org//images/thumb/9/9b/Woolfield.png/250px-Woolfield.png",
+    "region": "The North",
+    "overlord": "House Stark",
+    "coatOfArms": "Three woolsacks, white on purple, a white border"
+  },
+  {
+    "name": "House Wull",
+    "image": "http://awoiaf.westeros.org//images/thumb/e/e0/House_Wull.PNG/250px-House_Wull.PNG",
+    "lord": "Hugo Wull",
+    "region": "The North",
+    "overlord": "House Stark",
+    "coatOfArms": "Azure, three wooden buckets tenné, a bordure chequy cendrée and white"
+  },
+  {
+    "name": "House Wydman",
+    "image": "http://awoiaf.westeros.org//images/thumb/b/bc/Wydman.png/250px-Wydman.png",
+    "words": "Right Conquers Might",
+    "region": "Vale",
+    "overlord": "House Arryn",
+    "coatOfArms": "5 splintered lances, 3-2, striped blue and white with blue pennons, on  yellow, beneath a white chief bearing a red castle, a green viper, a  black broken wheel, a purple unicorn and a yellow lion"
+  },
+  {
+    "name": "House Wyl",
+    "image": "http://awoiaf.westeros.org//images/thumb/1/1f/WylCoA.png/250px-WylCoA.png",
+    "seat": "Wyl",
+    "region": "Dorne",
+    "overlord": "House Martell",
+    "coatOfArms": "A black adder biting a heel on yellow"
+  },
+  {
+    "name": "House Wylde",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/20/Wylde.png/250px-Wylde.png",
+    "seat": "Rain House",
+    "lord": "Casper Wylde",
+    "region": "the Stormlands",
+    "overlord": "House Baratheon",
+    "coatOfArms": "a maelstrom aquamarine"
+  },
+  {
+    "name": "House Wynch",
+    "image": "http://awoiaf.westeros.org//images/thumb/b/ba/Wynch.png/250px-Wynch.png",
+    "seat": "Iron Holt",
+    "lord": "Lord Waldon Wynch",
+    "region": "Iron Islands",
+    "overlord": "House Greyjoy",
+    "coatOfArms": "a bloody moon on purple"
+  },
+  {
+    "name": "House Wythers",
+    "image": "http://awoiaf.westeros.org//images/thumb/b/b8/House_Wythers.PNG/250px-House_Wythers.PNG",
+    "region": "the Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "a grey squirrel on white with red border"
+  },
+  {
+    "name": "House Yarwyck",
+    "image": "http://awoiaf.westeros.org//images/thumb/f/fa/Yarwyck.png/250px-Yarwyck.png",
+    "region": "Westerlands",
+    "overlord": "House Lannister",
+    "coatOfArms": "Argent, two halberds saltireways tenny hafted sable between four lozenges of the second"
+  },
+  {
+    "name": "House Yelshire",
+    "image": "http://awoiaf.westeros.org//images/a/aa/Yelshire.png",
+    "region": "Reach",
+    "overlord": "House Tyrell",
+    "coatOfArms": "Barry vert and on a chief sable a battering-ram proper headed"
+  },
+  {
+    "name": "House Yew",
+    "image": "http://awoiaf.westeros.org//images/thumb/5/50/Yew.PNG/200px-Yew.PNG",
+    "lord": "Manfryd Yew",
+    "region": "The Westerlands",
+    "overlord": "House Lannister",
+    "founder": "Alan o'the Oak",
+    "coatOfArms": "Argent, a longbow between two flaunches gules"
+  },
+  {
+    "name": "House of Yherizan",
+    "image": "http://awoiaf.westeros.org//images/thumb/2/29/Dejan_Delic_Rhaegal_on_his_pyramid.jpg/450px-Dejan_Delic_Rhaegal_on_his_pyramid.jpg",
+    "coatOfArms": null
+  },
+  {
+    "name": "House Yronwood",
+    "image": "http://awoiaf.westeros.org//images/thumb/c/c2/YronwoodCoA.png/250px-YronwoodCoA.png",
+    "words": "We Guard the Way",
+    "seat": "Yronwood",
+    "lord": "Lord Anders Yronwood",
+    "region": "Dorne",
+    "overlord": "House Martell",
+    "coatOfArms": "a portcullis sable"
+  }
+]
