@@ -76,7 +76,7 @@ app.delete('/api/houses/:id', function(req, res){
   var houseId = req.params.id;
   House.find(houseId).success(function(house){
     house.destroy().success(function(){
-      res.send('Successfuly deleted ' + house.name)
+      res.send(house)
     })
   })
 })
