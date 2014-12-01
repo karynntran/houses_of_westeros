@@ -19,9 +19,9 @@ sequelize.sync().success(function() {
   console.log('Starting server on port 3000...');
 });
 
-app.get('/', function(req, res){
-  res.sendfile('./views/index.html')
-})
+// app.get('/', function(req, res){
+//   res.sendfile('./views/index.html')
+// })
 
 
 app.get('/api/houses', function(req, res){
@@ -51,23 +51,23 @@ app.post('/api/houses', function(req, res){
     lord: houseDetails.lord,
     overlord: houseDetails.overlord
   }).success(function(house){
-    res.redirect('/api/houses/' + house.id);
+    res.send(JSON.stringify(house))
   });
 });
 
-app.get('/api/houses/:id/edit', function(req, res){
-  var houseId = req.params.id;
-  var house = House.find(houseId).success(function(house){
-    res.sendfile('./views/update.html');
-  });
-});
+// app.get('/api/houses/:id/edit', function(req, res){
+//   var houseId = req.params.id;
+//   var house = House.find(houseId).success(function(house){
+//     res.sendfile('./views/update.html');
+//   });
+// });
 
 app.put('/api/houses/:id', function(req, res){
   var houseId = req.params.id;
   var houseDetails = req.body.house;
   House.find(houseId).success(function(house){
     house.updateAttributes(houseDetails).success(function(house){
-      res.redirect('/api/houses/' + house.id);
+      res.send(JSON.stringify(house))
     });;
   })
 });
@@ -76,7 +76,7 @@ app.delete('/api/houses/:id', function(req, res){
   var houseId = req.params.id;
   House.find(houseId).success(function(house){
     house.destroy().success(function(){
-      res.redirect('/api/houses')
+      res.send('Successfuly deleted ' + house.name)
     })
   })
 })
