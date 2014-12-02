@@ -65,13 +65,6 @@ app.post('/api/houses', function(req, res){
   });
 });
 
-// app.get('/api/houses/:id/edit', function(req, res){
-//   var houseId = req.params.id;
-//   var house = House.find(houseId).then(function(house){
-//     res.sendfile('./views/update.html');
-//   });
-// });
-
 app.put('/api/houses/:id', function(req, res){
   var houseId = req.params.id;
   var houseDetails = req.body.house;
