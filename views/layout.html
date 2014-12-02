@@ -22,39 +22,6 @@
 	<script src="/javascripts/views/HouseListView.js"></script>	
 </head>
 <body>
-	<h1>Houses of Westoros</h1>
-
-<ul class='houses'>
-</ul>
-
-<script>
-<!-- // **** Global **** -->
-var houses = new HouseList();
-var housePainter;
-
-
-<!-- // **** OnLoad **** -->
-$(function(){
-
-  housePainter = new HouseListView({
-    el: $('ul.houses'),
-    collection: houses
-  });
-
-  houses.fetch();
-
-});
-
-</script>
-
+	<%= yield %>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
