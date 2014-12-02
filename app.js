@@ -1,14 +1,16 @@
 // Require Modules
 var express = require('express');
 var MethodOverride = require('method-override');
+var bodyParser = require('body-parser');
 
 // Set Up and Configure App
 var app = express();
 app.use(express.urlencoded());
-app.use(MethodOverride('X-HTTP-Method-Override'));
+app.use(bodyParser());
+app.use(MethodOverride('X-HTTP-Method-Override'))
 
 // Serve static files from public
-app.use(express.static('public'));
+app.use(express.static('public'))
 
 // require and configure Sequelize
 var Sequelize = require('sequelize')

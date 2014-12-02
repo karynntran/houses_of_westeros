@@ -3,6 +3,7 @@
   "description": "A guide for fledgling singers and fools",
   "version": "0.0.1",
   "dependencies": {
+    "body-parser": "^1.9.3",
     "express": "3.x",
     "handlebars": "^2.0.0",
     "method-override": "^2.3.0",
