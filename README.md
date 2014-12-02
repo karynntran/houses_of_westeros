@@ -11,7 +11,7 @@ Before we can start this app, there are a few things we need to do...
 
 2. Start `psql` and create a `houses_of_westeros_development` database.
 
-3. Run `npm install -g sequelize-cli`. This installs the command line interface for the `sequelize` module.
+3. In terminal, try running the command `sequelize`. If it returns an error, run `npm install -g sequelize-cli`. This installs the command line interface for the `sequelize` module.
 
 4. Run `sequelize db:migrate`. Can you guess what this does?
 
