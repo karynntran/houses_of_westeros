@@ -19,4 +19,10 @@ Before we can start this app, there are a few things we need to do...
 
 ## Your Task
 
-Implement full CRUD for this app using backbone.
+Implement the app's client-side structure using backbone.
+
+The homepage should show a list with all the houses.
+
+**Extra**
+
+On the homepage, add a form to submit new houses. When it is submitted, the list with all the houses should be updated automatically.
